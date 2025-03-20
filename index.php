@@ -35,32 +35,32 @@
 
 <body>
 
-<a href="http://rayuvtsi-stb.site/ott/index-1.php" class="btn btn-dark menu">
+<a href="https://github.com/makiptv/rayuvtsi-stb/raw/refs/heads/main/index-1.php" class="btn btn-dark menu">
 
 <img src="https://www.fg-a.com/flags/animated-albanian-flag-2.gif">
 
 <div class="menu-titull">ALBANIA</div>
 
-<a href="http://rayuvtsi-stb.site/ott/index-5.php" class="btn btn-dark menu">
+<a href="https://github.com/makiptv/rayuvtsi-stb/raw/refs/heads/main/index-5.php" class="btn btn-dark menu">
 
 <img src="https://www.fg-a.com/flags/animated-albanian-flag-2.gif">
 
 <div class="menu-titull">NIMI TV</div>
 
 
-</a><a href="http://rayuvtsi-stb.site/ott/index-2.php" class="btn btn-dark menu">
+</a><a href="https://github.com/makiptv/rayuvtsi-stb/raw/refs/heads/main/index-2.php" class="btn btn-dark menu">
 
 <img src="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Bulgaria_240-animated-flag-gifs.gif">
 
 <div class="menu-titull">BULGARIA</div>
 
-</a><a href="http://rayuvtsi-stb.site/ott/index-3.php" class="btn btn-dark menu">
+</a><a href="https://github.com/makiptv/rayuvtsi-stb/raw/refs/heads/main/index-3.php" class="btn btn-dark menu">
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmN19a00va64sbVyi0DmHg6iK4MFuYWkSxntH2jC8FGfT3j6kBRFq5xA1XrFxHtvgpfNiJ0TUGJJ5P_hlCx8AdtECX55X0160nf4UyJBI5PhuIXBIrMMCjShzuZc8IB5qbswbm0oKtfBE/s0/Flag_of_Macedonia.gif">
 
 <div class="menu-titull">MAKEDONIA</div>
 
-<a href="http://rayuvtsi-stb.site/ott/index-4.php" class="btn btn-dark menu">
+<a href="https://github.com/makiptv/rayuvtsi-stb/raw/refs/heads/main/index-4.php" class="btn btn-dark menu">
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2c0OTB4ZWZ3c3RldnIxMjh2aTdqZWZsaDBjenloNTl1YTVnNm5nZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVNJ7x7Ul3wIbjIhkA/giphy.gif">
 
