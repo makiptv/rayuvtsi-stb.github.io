@@ -1,0 +1,327 @@
+[
+  {
+    "name": " KLAN TV",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Klan TV.m3u8"
+  },
+  {
+    "name": " TOP CHANNEL",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Top Channel.m3u8"
+  },
+  {
+    "name": " vIZION PLUS",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Vizion Plus.m3u8"
+  },
+  {
+    "name": " ACTION",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Action (live).m3u8"
+  },
+  {
+    "name": "  COMEDY",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Comedy (live).m3u8"
+  },
+  {
+    "name": "  DRAMA",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Drama (live).m3u8"
+  },
+  {
+    "name": " BBF",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ BBF Music (live).m3u8"
+  },
+  {
+    "name": " RTSH 1",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ RTSH 1.m3u8"
+  },
+  {
+    "name": "  RTSH 2",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ RTSH 2 (live).m3u8"
+  },
+  {
+    "name": " RTSH  3",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ RTSH 3 (live).m3u8"
+  },
+  {
+    "name": " RTSH FILM",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ RTSH Film (live).m3u8"
+  },
+  {
+    "name": " RTSH KORCA",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ RTSH Korca (live).m3u8"
+  },
+  {
+    "name": "  RTSH 24",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ RTSH 24 (live).m3u8"
+  },
+  {
+    "name": " RTSH PLUS",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ RTSH Plus (live).m3u8"
+  },
+  {
+    "name": " RTSH SHQIP",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ RTSH Shqip (live).m3u8"
+  },
+  {
+    "name": " RTSH GJIROJASTRA",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ RTSH Gjirokastra (live).m3u8"
+  },
+  {
+    "name": " RTSH MUZIK",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ RTSH Muzike (live).m3u8"
+  },
+  {
+    "name": "  ALSAT M",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Alsat M.m3u8"
+  },
+  {
+    "name": " KLAN KOSOVA",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Klan Kosova.m3u8"
+  },
+  {
+    "name": " KLAN MK",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Klan Macedonia (live).m3u8"
+  },
+  {
+    "name": " KLAN PLUS",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Klan Plus.m3u8"
+  },
+  {
+    "name": " MCNTV",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ MCN TV (live).m3u8"
+  },
+  {
+    "name": " TURKISH STORIES",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Turkish Stories.m3u8"
+  },
+  {
+    "name": " EURO FILM",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Euro Film (live).m3u8"
+  },
+  {
+    "name": " FILM AKSION",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Film Aksion (live).m3u8"
+  },
+  {
+    "name": " FILM HITS",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Film Hits (live).m3u8"
+  },
+  {
+    "name": " FILM THRILLER",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Film Thriller (live).m3u8"
+  },
+  {
+    "name": " FILM AUTOR",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Film Autor (live).m3u8"
+  },
+  {
+    "name": " FILM DRAME",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Film Dram  (live).m3u8"
+  },
+  {
+    "name": " FILM FAMILY",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Film Family (live).m3u8"
+  },
+  {
+    "name": " FILM GOLD",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Film Gold (live).m3u8"
+  },
+  {
+    "name": " FILM FAMILY",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Film Family (live).m3u8"
+  },
+  {
+    "name": " TRING FAMILY",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Family (live).m3u8"
+  },
+  {
+    "name": "  TRING ACTION",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Action (live).m3u8"
+  },
+  {
+    "name": "  TRING SUPER",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Super (live).m3u8"
+  },
+  {
+    "name": "  TRING COLLECTION",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Collection (live).m3u8"
+  },
+  {
+    "name": " TRING CLASSIC",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Classic (live).m3u8"
+  },
+  {
+    "name": " TRING COMEDY",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Comedy (live).m3u8"
+  },
+  {
+    "name": " TRING 3 PLUS",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ 3 Plus.m3u8"
+  },
+  {
+    "name": " TRING LIFE",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Life (live).m3u8"
+  },
+  {
+    "name": " TRING FANTASY",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Fantasy (live).m3u8"
+  },
+  {
+    "name": " TOP NEWS",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Top News (live).m3u8"
+  },
+  {
+    "name": " ABC NEWS",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Abc News.m3u8"
+  },
+  {
+    "name": " ART SPORT 1",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Sport 1.m3u8"
+  },
+  {
+    "name": " ART SPORT 2",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Sport 2.m3u8"
+  },
+  {
+    "name": " ART SPORT 3",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Sport 3.m3u8"
+  },
+  {
+    "name": " ART SPORT 4",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Sport 4.m3u8"
+  },
+  {
+    "name": " ART SPORT 5",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Sport 5.m3u8"
+  },
+  {
+    "name": " SUPER SPORT 1",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Super Sport Albania 1.m3u8"
+  },
+  {
+    "name": " SUPER SPORT 2",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Super Sport Albania 2.m3u8"
+  },
+  {
+    "name": " SUPER SPORT 3",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Super Sport Albania 3.m3u8"
+  },
+  {
+    "name": " SUPER SPORT 4",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Super Sport Albania 4.m3u8"
+  },
+  {
+    "name": " SUPER SPORT 5",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Super Sport Albania 5.m3u8"
+  },
+  {
+    "name": " SUPER SPORT 6",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Super Sport Albania 6.m3u8"
+  },
+  {
+    "name": " KUJTESA SPORT 1",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ K Sport 1 (live).m3u8"
+  },
+  {
+    "name": " KUJTESA SPORT 2",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ K Sport 2 (live).m3u8"
+  },
+  {
+    "name": " KUJTESA SPORT 3",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ K Sport 3 (live).m3u8"
+  },
+  {
+    "name": " KUJTESA SPORT 4",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ K Sport 4 (live).m3u8"
+  },
+  {
+    "name": " EURO SPORT 1",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ EuroSport 1 (live).m3u8"
+  },
+  {
+    "name": " EURO SPORT 1",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ EuroSport 2 (live).m3u8"
+  },
+  {
+    "name": " TRING SPORT 1",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Sport 1.m3u8"
+  },
+  {
+    "name": " TRING SPORT 2",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Sport 2.m3u8"
+  },
+  {
+    "name": " TRING SPORT 3",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Sport 3.m3u8"
+  },
+  {
+    "name": " TRING SPORT 4",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ Tring Sport 4.m3u8"
+  },
+  {
+    "name": " RTSH SPORT",
+    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+    "url": "http://alboliveiptv.xyz/ RTSH Sport.m3u8"
+  }
+]
