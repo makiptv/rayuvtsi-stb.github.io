@@ -1,0 +1,359 @@
+[
+  
+      {
+        "name": "MK| MRT 1",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=110744&extension=m3u8&play_token=57PLjgdVr1"
+      },
+      {
+        "name": "MK| MRT 2",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=110743&extension=m3u8&play_token=YVNA9mmX4U"
+      },
+      {
+        "name": "MK| MRT 3",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=161917&extension=m3u8&play_token=JtX0yfNbzj"
+      },
+      {
+        "name": "MK| MRT 4",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=830803&extension=m3u8&play_token=fnwT2sY7eo"
+      },
+      {
+        "name": "MK| MRT 5",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=830804&extension=m3u8&play_token=uprxSQDefo"
+      },
+      {
+        "name": "MK| SITEL",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=110741&extension=m3u8&play_token=Cye7sVBynJ"
+      },
+      {
+        "name": "MK| SITEL HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=161918&extension=m3u8&play_token=jZyPpRHam8"
+      },
+      {
+        "name": "MK| SITEL FHD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261796&extension=m3u8&play_token=ELdfz36TcR"
+      },
+      {
+        "name": "MK| KANAL 5",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=110745&extension=m3u8&play_token=c3SZtt2bX2"
+      },
+      {
+        "name": "MK| KANAL 5 HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=318980&extension=m3u8&play_token=7Yt8g9Zg5m"
+      },
+      {
+        "name": "MK| 24 VESTI",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=110747&extension=m3u8&play_token=NQyP76SmWk"
+      },
+      {
+        "name": "MK|  24 VESTI HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=161908&extension=m3u8&play_token=RPfcm6XGk7"
+      },
+      {
+        "name": "MK| TELMA",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=110738&extension=m3u8&play_token=cLJBdVtX6Z"
+      },
+      {
+        "name": "MK| ALFA",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=110746&extension=m3u8&play_token=JvyuGd8dro"
+      },
+      {
+        "name": "MK| ALFA TV SD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261757&extension=m3u8&play_token=QNjAjZABnV"
+      },
+      {
+        "name": "MK| ALFA TV",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=110683&extension=m3u8&play_token=JQT3Pwq2We"
+      },
+      {
+        "name": "MK| NASA TV",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=110742&extension=m3u8&play_token=X9G9dSnf46"
+      },
+      {
+        "name": "MK| TV NOVA",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261806&extension=m3u8&play_token=IhuhpHU7j3"
+      },
+      {
+        "name": "MK| TV SONCE",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261807&extension=m3u8&play_token=XfRQGoAlYr"
+      },
+      {
+        "name": "MK|  SUTEL TV",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=161919&extension=m3u8&play_token=NUS2iNKsN1"
+      },
+      {
+        "name": "MK| SUTEL TV",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261792&extension=m3u8&play_token=7RstH9I0bU"
+      },
+      {
+        "name": "MK| ALSAT M HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261758&extension=m3u8&play_token=VVYkKQamil"
+      },
+      {
+        "name": "MK| KANAL 21 TV",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261778&extension=m3u8&play_token=w7xV801Ppb"
+      },
+      {
+        "name": "MK| RTV21 HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261755&extension=m3u8&play_token=dB618o1SpR"
+      },
+      {
+        "name": "MK| KLAN MACEDONIA",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261784&extension=m3u8&play_token=udFQzmKS4O"
+      },
+      {
+        "name": "MK| TV+ KUMANOVO",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261791&extension=m3u8&play_token=Twi7zPpAKM"
+      },
+      {
+        "name": "MK| TV2 GOSTIVAR",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261794&extension=m3u8&play_token=yfHRWns0kf"
+      },
+      {
+        "name": "MK| TV TERA BITOLA HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261804&extension=m3u8&play_token=NwxmGJypeh"
+      },
+      {
+        "name": "MK| MEGA BITOLA HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261782&extension=m3u8&play_token=vIh3uC51i0"
+      },
+      {
+        "name": "MK| KTV KAVADARCI",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261773&extension=m3u8&play_token=OBJ5NCC8aO"
+      },
+      {
+        "name": "MK| O2 OHRID HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261768&extension=m3u8&play_token=6SiO9psA6B"
+      },
+      {
+        "name": "MK|  KANAL 8",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=161914&extension=m3u8&play_token=Ss8BPLbh0n"
+      },
+      {
+        "name": "MK|  K3",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=161922&extension=m3u8&play_token=NgB6xc1Ich"
+      },
+      {
+        "name": "MK| TV 1000",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261805&extension=m3u8&play_token=K6UQwsxJKZ"
+      },
+      {
+        "name": "MK| M-NET INFO",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1334147&extension=m3u8&play_token=OAo2M5jAYH"
+      },
+      {
+        "name": "MK| M-NET KIDS",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1334146&extension=m3u8&play_token=NYWJX6WyBz"
+      },
+      {
+        "name": "MK| MPT SOBRANISKI HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1702152&extension=m3u8&play_token=SdZfhFO46M"
+      },
+      {
+        "name": "MK| MTM TV",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1707830&extension=m3u8&play_token=ywVLn6Mjdf"
+      },
+      {
+        "name": "MK| HUGO TV HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261772&extension=m3u8&play_token=Vl1hutVcDx"
+      },
+      {
+        "name": "MK| HUGO 2 TV",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=777572&extension=m3u8&play_token=zyQy8VC6Q8"
+      },
+      {
+        "name": "MK| HBO FHD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261769&extension=m3u8&play_token=bggWaT2p0Q"
+      },
+      {
+        "name": "MK| HBO 2 FHD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261770&extension=m3u8&play_token=Wu2uAPvp00"
+      },
+      {
+        "name": "MK| HBO 3 FHD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261771&extension=m3u8&play_token=wRJxFQ0N4B"
+      },
+      {
+        "name": "MK| CINESTAR TV PREMIERE 1",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261762&extension=m3u8&play_token=BMBlRfHctZ"
+      },
+      {
+        "name": "MK| CINESTAR TV PREMIERE 2",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261763&extension=m3u8&play_token=Zj5fcbIzcd"
+      },
+      {
+        "name": "MK| STAR CHANNEL HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261761&extension=m3u8&play_token=Fbx4pXjUPi"
+      },
+      {
+        "name": "MK| FILM BOX PLUS",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261765&extension=m3u8&play_token=V2cxWaTXDt"
+      },
+      {
+        "name": "MK| DISCOVERY CHANNEL [Multi-Sub]",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261764&extension=m3u8&play_token=hQUYMkFnmP"
+      },
+      {
+        "name": "MK| ANIMAL PLANET [Multi-Sub]",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261759&extension=m3u8&play_token=CeuHRXlwET"
+      },
+      {
+        "name": "MK| FOX HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261785&extension=m3u8&play_token=1KNPi0wF26"
+      },
+      {
+        "name": "MK| FOX LIFE",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261786&extension=m3u8&play_token=spWLk7byHD"
+      },
+      {
+        "name": "MK| VIASAT HISTORY",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261809&extension=m3u8&play_token=R0DESBobWF"
+      },
+      {
+        "name": "MK| VIASAT EXPLORE",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261808&extension=m3u8&play_token=5xxRXXZUiS"
+      },
+      {
+        "name": "MK| TRAVEL CHANNEL",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261803&extension=m3u8&play_token=mulSLeMNqJ"
+      },
+      {
+        "name": "MK| TLC",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261802&extension=m3u8&play_token=2XxotvjxnP"
+      },
+      {
+        "name": "MK| SKY FOLK HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261798&extension=m3u8&play_token=EKL3eT1xxZ"
+      },
+      {
+        "name": "MK| SKY FOLK",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=777570&extension=m3u8&play_token=Qm3RCOnMrX"
+      },
+      {
+        "name": "MK|  SKYFOLK MK",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=161927&extension=m3u8&play_token=EFt3kY99Sz"
+      },
+      {
+        "name": "MK| INTV AVSTRALIJA HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261775&extension=m3u8&play_token=7868P16QgB"
+      },
+      {
+        "name": "MK| BALKAN MUSIC HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261760&extension=m3u8&play_token=BWrr9MHKVL"
+      },
+      {
+        "name": "MK| PLANETA TV HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261793&extension=m3u8&play_token=u4009NmiV7"
+      },
+      {
+        "name": "MK|  ROMA TV",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=161923&extension=m3u8&play_token=0IDS6XSpPG"
+      },
+      {
+        "name": "MK| KOHA TV HD",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=261783&extension=m3u8&play_token=U5M2mMi4mW"
+      },
+      {
+        "name": "MNG| NOVA M",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1159830&extension=m3u8&play_token=Xk9a8O8jnE"
+      },
+      {
+        "name": "MNG| NOVA M",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=110831&extension=m3u8&play_token=1JsxO2fjpo"
+      },
+      {
+        "name": "MNG| RTCG SAT",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=110779&extension=m3u8&play_token=V4Le0GuTOz"
+      },
+      {
+        "name": "MNG| RTCG",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=15691&extension=m3u8&play_token=RZcuZWxuVX"
+      },
+      {
+        "name": "MNG| RTVCG 1",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=162080&extension=m3u8&play_token=TRBCFb7QFF"
+      },
+      {
+        "name": "MNG| RTVCG 2",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=162081&extension=m3u8&play_token=eee5MthdWP"
+      },
+      {
+        "name": "MNG| CG PRVA",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1600471&extension=m3u8&play_token=ZCddouO9EW"
+      },
+      {
+        "name": "MNG| TV VIJESTI",
+        "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
+        "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=162082&extension=m3u8&play_token=lFVjpO4Fzz"
+      }
+    ]
+ 
