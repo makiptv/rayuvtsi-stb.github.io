@@ -1,0 +1,3382 @@
+[
+  {
+    "name": "ALB| BIG BROTHER VIP ALBANIA 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1735516&extension=m3u8&play_token=z4QrtcxRZZ"
+  },
+  {
+    "name": "ALB| BIG BROTHER VIP ALBANIA 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1735517&extension=m3u8&play_token=G5gjk9yOFi"
+  },
+  {
+    "name": "ALB| BIG BROTHER VIP ALBANIA 1 (BK)",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1759240&extension=m3u8&play_token=zHsA73WiwK"
+  },
+  {
+    "name": "ALB| BIG BROTHER VIP ALBANIA 2 (BK)",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1759239&extension=m3u8&play_token=jbsxpttyld"
+  },
+  {
+    "name": "ALB| TOP CHANNEL 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116369&extension=m3u8&play_token=rE4WwdIOCK"
+  },
+  {
+    "name": "ALB| TOP CHANNEL HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116177&extension=m3u8&play_token=MVfQwqJzJN"
+  },
+  {
+    "name": "ALB| TV KLAN 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116370&extension=m3u8&play_token=a8GLjYDmY3"
+  },
+  {
+    "name": "ALB| TV KLAN HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116108&extension=m3u8&play_token=zz0f6t7Fc5"
+  },
+  {
+    "name": "ALB| KLAN PLUS HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116107&extension=m3u8&play_token=hVsXEHUu3B"
+  },
+  {
+    "name": "ALB| KLAN PLUS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116106&extension=m3u8&play_token=C88J6wus6U"
+  },
+  {
+    "name": "ALB| VIZION PLUS 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116208&extension=m3u8&play_token=PQya5wMUeE"
+  },
+  {
+    "name": "ALB| VIZION PLUS HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116209&extension=m3u8&play_token=3MxMPdBcfM"
+  },
+  {
+    "name": "ALB| Rm3u8H 24",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1008369&extension=m3u8&play_token=M2zxjDwyW8"
+  },
+  {
+    "name": "ALB| Rm3u8H SAT",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116126&extension=m3u8&play_token=64vCfMJxIg"
+  },
+  {
+    "name": "ALB| Rm3u8H 1",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116125&extension=m3u8&play_token=9STKYgO6E1"
+  },
+  {
+    "name": "ALB| Rm3u8H 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116127&extension=m3u8&play_token=fqpz9mPCYW"
+  },
+  {
+    "name": "ALB| Rm3u8H 3",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116129&extension=m3u8&play_token=g5wxdk4xTi"
+  },
+  {
+    "name": "ALB| Rm3u8H PLUS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116134&extension=m3u8&play_token=w8oviXD9Xj"
+  },
+  {
+    "name": "ALB| Rm3u8H SPORT 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116136&extension=m3u8&play_token=z0Ccl23dXu"
+  },
+  {
+    "name": "ALB| Rm3u8H SHQIP",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116135&extension=m3u8&play_token=o3emDfabZJ"
+  },
+  {
+    "name": "##### ALB NEWS #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=196719&extension=m3u8&play_token=21IDleEf9t"
+  },
+  {
+    "name": "ALB| EURONEWS ALBANIA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=852327&extension=m3u8&play_token=TOGxUZgGU1"
+  },
+  {
+    "name": "ALB| KLAN NEWS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116048&extension=m3u8&play_token=13FtcrjlaI"
+  },
+  {
+    "name": "ALB| TOP NEWS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116179&extension=m3u8&play_token=BVuNgCRdPk"
+  },
+  {
+    "name": "ALB| KANALI 7",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116101&extension=m3u8&play_token=TTmLuwkWlg"
+  },
+  {
+    "name": "ALB| ORA NEWS 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116326&extension=m3u8&play_token=87nza0LZr2"
+  },
+  {
+    "name": "ALB| ORA NEWS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116116&extension=m3u8&play_token=8tmFISvsSc"
+  },
+  {
+    "name": "ALB| NEWS 24",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116114&extension=m3u8&play_token=h7sRinEkQ0"
+  },
+  {
+    "name": "ALB| FAX NEWS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116207&extension=m3u8&play_token=Deh3FYc566"
+  },
+  {
+    "name": "ALB| ABC NEWS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=853018&extension=m3u8&play_token=rDy6Pdtob7"
+  },
+  {
+    "name": "ALB| REPORT TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116119&extension=m3u8&play_token=jMmJT8UOo1"
+  },
+  {
+    "name": "ALB| A2 CNN",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116295&extension=m3u8&play_token=HwUrj01wD8"
+  },
+  {
+    "name": "ALB| SYRI TELEVIZION",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=920560&extension=m3u8&play_token=RZloddjjlq"
+  },
+  {
+    "name": "ALB| Rm3u8H GJIROKASTRA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116132&extension=m3u8&play_token=gQsIYMAdkn"
+  },
+  {
+    "name": "ALB| SCAN TV HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1082693&extension=m3u8&play_token=xlFZ7wSIa9"
+  },
+  {
+    "name": "##### ALB DOCUMENTARIES #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=196720&extension=m3u8&play_token=tGeenFECxO"
+  },
+  {
+    "name": "ALB| EXPLORER HISTORI",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116072&extension=m3u8&play_token=ClncmCGucg"
+  },
+  {
+    "name": "ALB| EXPLORER NATYRA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116073&extension=m3u8&play_token=mfNHl1PXGc"
+  },
+  {
+    "name": "ALB| EXPLORER SHKENCE",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116074&extension=m3u8&play_token=5Lj5sZAlZT"
+  },
+  {
+    "name": "ALB| TRING PLANET",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116188&extension=m3u8&play_token=5Li5aWn65U"
+  },
+  {
+    "name": "ALB| TRING WORLD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116193&extension=m3u8&play_token=1jpM9cYKjf"
+  },
+  {
+    "name": "ALB| TRING HISTORY",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116184&extension=m3u8&play_token=RM3vuEIu1i"
+  },
+  {
+    "name": "ALB| LIVING 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116111&extension=m3u8&play_token=k6YuFewdv7"
+  },
+  {
+    "name": "ALB| HISTORY CHANNEL",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116306&extension=m3u8&play_token=Gh5DuIskPz"
+  },
+  {
+    "name": "ALB| NATIONAL GEOGRAPHIC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116113&extension=m3u8&play_token=szohWIfW17"
+  },
+  {
+    "name": "ALB| NATIONAL GEOGRAPHIC WILD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116325&extension=m3u8&play_token=ApYwGrbkpV"
+  },
+  {
+    "name": "ALB| DISCOVERY CHANNEL",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116062&extension=m3u8&play_token=vvn2FyeczV"
+  },
+  {
+    "name": "ALB| DISCOVERY SCIENCE",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116063&extension=m3u8&play_token=XiNUUwICnm"
+  },
+  {
+    "name": "ALB| INVESTIGATION DISCOVERY",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116065&extension=m3u8&play_token=0uRPoHgtoo"
+  },
+  {
+    "name": "ALB| DISCOVERY TURBO EXTRA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116064&extension=m3u8&play_token=AnAu5cQ2my"
+  },
+  {
+    "name": "##### ALB MOVIES & SERIES #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=196718&extension=m3u8&play_token=ZjYwkt7x4n"
+  },
+  {
+    "name": "ALB| NETFLIX ACTION FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539532&extension=m3u8&play_token=ET32gL4Gix"
+  },
+  {
+    "name": "ALB| NETFLIX THRILLER FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539536&extension=m3u8&play_token=DGeGKIZtqf"
+  },
+  {
+    "name": "ALB| NETFLEX ROMANCE FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539535&extension=m3u8&play_token=M2mFiyZZIs"
+  },
+  {
+    "name": "ALB| NETFLIX COMEDY FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539533&extension=m3u8&play_token=1yjZUuKpTv"
+  },
+  {
+    "name": "ALB| ALBANIA PRIME FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539534&extension=m3u8&play_token=lm2eevH76U"
+  },
+  {
+    "name": "ALB| ALBANIA DISNY FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539531&extension=m3u8&play_token=oUl1T7RHdZ"
+  },
+  {
+    "name": "ALB| PLAYME ACTION 1 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539537&extension=m3u8&play_token=uuq429IRlK"
+  },
+  {
+    "name": "ALB| PLAYME ACTION 2 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539538&extension=m3u8&play_token=4hrmZEOIM3"
+  },
+  {
+    "name": "ALB| PLAYME ACTION 3 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539539&extension=m3u8&play_token=961sfkdPXQ"
+  },
+  {
+    "name": "ALB| PLAYME ACTION 4 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539540&extension=m3u8&play_token=Sm7fc8qepx"
+  },
+  {
+    "name": "ALB| PLAYME THRILLER 1 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539560&extension=m3u8&play_token=0yCAzC03d2"
+  },
+  {
+    "name": "ALB| PLAYME THRILLER 2 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539561&extension=m3u8&play_token=pMNcmr0HQe"
+  },
+  {
+    "name": "ALB| PLAYME THRILLER 3 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539562&extension=m3u8&play_token=6JzG4GUVBQ"
+  },
+  {
+    "name": "ALB| PLAYME COMEDY 1 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539541&extension=m3u8&play_token=NrAav1SZ5U"
+  },
+  {
+    "name": "ALB| PLAYME COMEDY 2 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539542&extension=m3u8&play_token=efm2BUgMcV"
+  },
+  {
+    "name": "ALB| PLAYME COMEDY 3 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539543&extension=m3u8&play_token=k5y9i9myjv"
+  },
+  {
+    "name": "ALB| PLAYME SCIENCE FICTION 1 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539558&extension=m3u8&play_token=iOVgZQHHAH"
+  },
+  {
+    "name": "ALB| PLAYME SCIENCE FICTION 2 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539559&extension=m3u8&play_token=TBvdncejyL"
+  },
+  {
+    "name": "ALB| PLAYME ROMANCE 1 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539556&extension=m3u8&play_token=TRxPJkeqU7"
+  },
+  {
+    "name": "ALB| PLAYME ROMANCE 2 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539557&extension=m3u8&play_token=YavQUi1w7w"
+  },
+  {
+    "name": "ALB| PLAYME DRAMA 1 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539546&extension=m3u8&play_token=cUoUzqoXxg"
+  },
+  {
+    "name": "ALB| PLAYME DRAMA 2 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539547&extension=m3u8&play_token=yQDyL6UMRc"
+  },
+  {
+    "name": "ALB| PLAYME DRAMA 3 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539548&extension=m3u8&play_token=ntv8SL73W0"
+  },
+  {
+    "name": "ALB| PLAYME HORROR 1 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539549&extension=m3u8&play_token=S5WjpLhlrT"
+  },
+  {
+    "name": "ALB| PLAYME HORROR 3 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539551&extension=m3u8&play_token=FGYZJ9znNg"
+  },
+  {
+    "name": "ALB| PLAYME HORROR 2 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539550&extension=m3u8&play_token=V2Een34I1q"
+  },
+  {
+    "name": "ALB| PLAYME DOCUMENTAIR 1 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539544&extension=m3u8&play_token=SFvLbXhB2S"
+  },
+  {
+    "name": "ALB| PLAYME DOCUMENTAIR 2 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539545&extension=m3u8&play_token=Mr86kKCxnJ"
+  },
+  {
+    "name": "ALB| PLAYME KIDS 1 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539552&extension=m3u8&play_token=KolgVsdqET"
+  },
+  {
+    "name": "ALB| PLAYME KIDS 2 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539553&extension=m3u8&play_token=U4vbzv9iD5"
+  },
+  {
+    "name": "ALB| PLAYME KIDS 3 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539554&extension=m3u8&play_token=IXvFFNl37T"
+  },
+  {
+    "name": "ALB| PLAYME KIDS 4 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539555&extension=m3u8&play_token=hirF9gDNwC"
+  },
+  {
+    "name": "ALB| DIGI MOVIES 1 FHD FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539583&extension=m3u8&play_token=IDDTmnkhUT"
+  },
+  {
+    "name": "ALB| DIGI MOVIES 2 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539584&extension=m3u8&play_token=dN07WMt6Tl"
+  },
+  {
+    "name": "ALB| DIGI MOVIES 3 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539585&extension=m3u8&play_token=K5X4wGUduA"
+  },
+  {
+    "name": "ALB| DIGI MOVIES 4 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539586&extension=m3u8&play_token=xIltpeLbfl"
+  },
+  {
+    "name": "ALB| DIGI MOVIES 5 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539587&extension=m3u8&play_token=8X9iawTnWL"
+  },
+  {
+    "name": "ALB| DIGI MOVIES 6 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539588&extension=m3u8&play_token=SUwDNRfe4P"
+  },
+  {
+    "name": "ALB| DIGI MOVIES 7 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539589&extension=m3u8&play_token=fvwfQqJmVJ"
+  },
+  {
+    "name": "ALB| DIGI MOVIES 8 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539590&extension=m3u8&play_token=0K3AWtlrOP"
+  },
+  {
+    "name": "ALB| 24/7 WARRIOS FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539582&extension=m3u8&play_token=J6L6yG35KZ"
+  },
+  {
+    "name": "ALB| 24/7 VIKINGS FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539581&extension=m3u8&play_token=uXUSlv5eSD"
+  },
+  {
+    "name": "ALB| 24/7 TOP BOY FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539580&extension=m3u8&play_token=ou5GipW7wn"
+  },
+  {
+    "name": "ALB| 24/7 THE PROTECTOR FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539579&extension=m3u8&play_token=KDqdBziInE"
+  },
+  {
+    "name": "ALB| 24/7 TEHRAN FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539578&extension=m3u8&play_token=Iepr2H4XGg"
+  },
+  {
+    "name": "ALB| 24/7 SUBURRA FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539577&extension=m3u8&play_token=OlYPF57aDY"
+  },
+  {
+    "name": "ALB| 24/7 SONS OF ANARCHY FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539576&extension=m3u8&play_token=gvpsBMbZ5a"
+  },
+  {
+    "name": "ALB| 24/7 SEE FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539575&extension=m3u8&play_token=yzt0iAoqgq"
+  },
+  {
+    "name": "ALB| 24/7 QUEEN OF THE SOUTH  FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539574&extension=m3u8&play_token=n68g1m0oM3"
+  },
+  {
+    "name": "ALB| 24/7 OZARK FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539573&extension=m3u8&play_token=AyzVFhdr6k"
+  },
+  {
+    "name": "ALB| 24/7 NARCOS MEXICO FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539572&extension=m3u8&play_token=Pub8lJV7oL"
+  },
+  {
+    "name": "ALB| 24/7 MONEY HEIST FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539571&extension=m3u8&play_token=ijUjptcKIc"
+  },
+  {
+    "name": "ALB| LUCIFER FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539570&extension=m3u8&play_token=fZU1dXjAeC"
+  },
+  {
+    "name": "ALB| HOUSE OF_THE DRAGON FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539569&extension=m3u8&play_token=xAqUPe5uD5"
+  },
+  {
+    "name": "ALB| 24/7 GODFATHER OF HARLEM FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539568&extension=m3u8&play_token=gt5vBfZOyb"
+  },
+  {
+    "name": "ALB| 24/7 GANGS OF LONDON FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539567&extension=m3u8&play_token=PSxd0w0ELk"
+  },
+  {
+    "name": "ALB| 24/7 GAME OF THRONES FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539566&extension=m3u8&play_token=W2YN7vGzZa"
+  },
+  {
+    "name": "ALB| 24/7 DARK FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539565&extension=m3u8&play_token=wc9hJnAaEo"
+  },
+  {
+    "name": "ALB| 24/7 FRONTIER FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539564&extension=m3u8&play_token=3gy9QsVdjj"
+  },
+  {
+    "name": "ALB| 24/7 BARBARIANS FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1539563&extension=m3u8&play_token=6T62eqI0tV"
+  },
+  {
+    "name": "ALB| FILM GOLD HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116086&extension=m3u8&play_token=eRfeffCqlQ"
+  },
+  {
+    "name": "ALB| FILM MAX 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116079&extension=m3u8&play_token=sTEgxgSIOL"
+  },
+  {
+    "name": "ALB| FILM T HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116089&extension=m3u8&play_token=78lsjTlRlA"
+  },
+  {
+    "name": "ALB| FILM AKSION",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116076&extension=m3u8&play_token=XNsXcoPzRf"
+  },
+  {
+    "name": "ALB| FILM AUTOR",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116077&extension=m3u8&play_token=fSGCt31qX4"
+  },
+  {
+    "name": "ALB| FILM DRAM ",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116078&extension=m3u8&play_token=AFdXMMUcTl"
+  },
+  {
+    "name": "ALB| FILM FAMILY HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116082&extension=m3u8&play_token=eNH2zljrAY"
+  },
+  {
+    "name": "ALB| FILM HIm3u8",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116083&extension=m3u8&play_token=g82f481lPQ"
+  },
+  {
+    "name": "ALB| FILM KOMEDI",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116084&extension=m3u8&play_token=I7gkfuTyMw"
+  },
+  {
+    "name": "ALB| FILM THRILLER",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116090&extension=m3u8&play_token=UBETrp3vpG"
+  },
+  {
+    "name": "ALB| FILM GOLD 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116085&extension=m3u8&play_token=G4TEn18xls"
+  },
+  {
+    "name": "ALB| DIGI GOLD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=917711&extension=m3u8&play_token=0W4He2w96w"
+  },
+  {
+    "name": "ALB| SKY KOMEDI HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116059&extension=m3u8&play_token=uhwZRrhm5I"
+  },
+  {
+    "name": "ALB| TRING SUPER 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116191&extension=m3u8&play_token=BIdcsjznLD"
+  },
+  {
+    "name": "ALB| TRING ACTION",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116181&extension=m3u8&play_token=NccPrmfJ8s"
+  },
+  {
+    "name": "ALB| TRING COMEDY",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116182&extension=m3u8&play_token=FZDfmDux02"
+  },
+  {
+    "name": "ALB| TRING FANTASY",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116183&extension=m3u8&play_token=86qfAFamhw"
+  },
+  {
+    "name": "ALB| TRING FAMILY HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=860385&extension=m3u8&play_token=Mep7B1V9iW"
+  },
+  {
+    "name": "ALB| TRING CLASSIC HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=860384&extension=m3u8&play_token=0FdF6v0ned"
+  },
+  {
+    "name": "ALB| TRING SHQIP",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116189&extension=m3u8&play_token=dF4xTDECe0"
+  },
+  {
+    "name": "ALB| TRING SMILE",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116190&extension=m3u8&play_token=zefw8xfHVi"
+  },
+  {
+    "name": "ALB| TRING NOVELAS HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=917710&extension=m3u8&play_token=7eplqohOeQ"
+  },
+  {
+    "name": "ALB| TRING TURKISH STORIES 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1463914&extension=m3u8&play_token=fy83BG8L1y"
+  },
+  {
+    "name": "ALB| TRING SERIES HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116185&extension=m3u8&play_token=0tJNjSuuGz"
+  },
+  {
+    "name": "ALB| TRING LIFE",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116187&extension=m3u8&play_token=DTQF5pENZM"
+  },
+  {
+    "name": "ALB| TRING 3+",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116180&extension=m3u8&play_token=Q74Zzgs6MA"
+  },
+  {
+    "name": "ALB| KANAL D DRAMA FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1271767&extension=m3u8&play_token=dKlbVXnjFK"
+  },
+  {
+    "name": "ALB| KANAL D DRAMA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=164354&extension=m3u8&play_token=UJ8vejsCoe"
+  },
+  {
+    "name": "ALB| DIZI TDC 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=469117&extension=m3u8&play_token=JW90e4rWpQ"
+  },
+  {
+    "name": "ALB| DIZI TDC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=469118&extension=m3u8&play_token=OSqisWCg23"
+  },
+  {
+    "name": "ALB| EURO FILM",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116067&extension=m3u8&play_token=qbOkdpOltP"
+  },
+  {
+    "name": "ALB| DIGI GOLD 1",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=917712&extension=m3u8&play_token=ZssZuRE9Eh"
+  },
+  {
+    "name": "ALB| DIGI GOLD 2",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=917713&extension=m3u8&play_token=F5juyJ7h3W"
+  },
+  {
+    "name": "ALB| DIGI GOLD 3",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=917714&extension=m3u8&play_token=yxJCEaMc2e"
+  },
+  {
+    "name": "ALB| DIGI GOLD 4",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=917715&extension=m3u8&play_token=eQhyol7yL3"
+  },
+  {
+    "name": "ALB| DISCOVERY+ 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941560&extension=m3u8&play_token=FDz2zY4kuQ"
+  },
+  {
+    "name": "ALB| DISCOVERY+ 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941559&extension=m3u8&play_token=0n2PdEA3xF"
+  },
+  {
+    "name": "ALB| DISCOVERY+ 3 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941558&extension=m3u8&play_token=xAK9x8KLYS"
+  },
+  {
+    "name": "ALB| DISCOVERY+ 4 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941557&extension=m3u8&play_token=xPSlCHI5Ng"
+  },
+  {
+    "name": "ALB| DISCOVERY+ 5 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941556&extension=m3u8&play_token=coFROPod1f"
+  },
+  {
+    "name": "ALB| DISCOVERY+ 6 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941555&extension=m3u8&play_token=zKD4gXYCfG"
+  },
+  {
+    "name": "ALB| DISCOVERY+ 7 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941554&extension=m3u8&play_token=tBj1xlZu02"
+  },
+  {
+    "name": "ALB| DISCOVERY+ 8 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941553&extension=m3u8&play_token=w6YeL9PeHg"
+  },
+  {
+    "name": "ALB| DISCOVERY+ 9 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941552&extension=m3u8&play_token=8ZwPAqRDLC"
+  },
+  {
+    "name": "ALB| DISCOVERY+ 10 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941551&extension=m3u8&play_token=7QmANTfC9V"
+  },
+  {
+    "name": "ALB| DISCOVERY+ MAX 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941550&extension=m3u8&play_token=Bn6JWMYgEi"
+  },
+  {
+    "name": "ALB| DISCOVERY+ MAX 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941549&extension=m3u8&play_token=lSZA8GHdRH"
+  },
+  {
+    "name": "ALB| DISCOVERY+ MAX 3 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941548&extension=m3u8&play_token=UXD2mgbhak"
+  },
+  {
+    "name": "ALB| DISCOVERY+ MAX 4 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941547&extension=m3u8&play_token=0lGNZCIkT1"
+  },
+  {
+    "name": "ALB| DISCOVERY+ MAX 5 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941546&extension=m3u8&play_token=9PRg994yVq"
+  },
+  {
+    "name": "ALB| DISCOVERY+ MAX 6 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=941545&extension=m3u8&play_token=DPGqQ0QrIS"
+  },
+  {
+    "name": "##### ALB REGIONAL #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1122024&extension=m3u8&play_token=RDFQnRk3mI"
+  },
+  {
+    "name": "ALB| O SA MIRE",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1501620&extension=m3u8&play_token=ukTnhmY3oP"
+  },
+  {
+    "name": "ALB| TEMA TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116272&extension=m3u8&play_token=9WkJykyNoO"
+  },
+  {
+    "name": "ALB| TV ZJARR",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116225&extension=m3u8&play_token=rGTEaFItlw"
+  },
+  {
+    "name": "ALB| MCN TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=897321&extension=m3u8&play_token=5mWBcem64j"
+  },
+  {
+    "name": "ALB| MCN TV 24",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1444821&extension=m3u8&play_token=L0c2lDu2Ky"
+  },
+  {
+    "name": "ALB| STAR PLUS SHKOD R HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116270&extension=m3u8&play_token=uzOk4c0g9r"
+  },
+  {
+    "name": "ALB| TV KOPLIKU HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116231&extension=m3u8&play_token=hXLCRBqAeb"
+  },
+  {
+    "name": "ALB| DRITA TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1035719&extension=m3u8&play_token=Kl0Nkb9A3U"
+  },
+  {
+    "name": "ALB| APOLLON TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1082716&extension=m3u8&play_token=sK7GVEDhev"
+  },
+  {
+    "name": "##### ALB MUSIC #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=196717&extension=m3u8&play_token=M3F5EbvBDY"
+  },
+  {
+    "name": "ALB| BLUE SKY TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=206183&extension=m3u8&play_token=gP4x1kaZ9F"
+  },
+  {
+    "name": "ALB| Rm3u8H MUZIKE",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116133&extension=m3u8&play_token=49NwCcK4CP"
+  },
+  {
+    "name": "ALB| MY MUSIC HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116264&extension=m3u8&play_token=qeML67nOqR"
+  },
+  {
+    "name": "ALB| FOLK PLUS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116357&extension=m3u8&play_token=0GET5I7sRQ"
+  },
+  {
+    "name": "ALB| SUPERSONIC TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116360&extension=m3u8&play_token=9EoGEDupXs"
+  },
+  {
+    "name": "ALB| ELRODI TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=294535&extension=m3u8&play_token=lsN7aywbOL"
+  },
+  {
+    "name": "ALB| IN TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116096&extension=m3u8&play_token=ToTTj7i1IA"
+  },
+  {
+    "name": "ALB| A MOL TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116224&extension=m3u8&play_token=XOKbKpY4tt"
+  },
+  {
+    "name": "ALB| CLICK HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116236&extension=m3u8&play_token=wekAontBMu"
+  },
+  {
+    "name": "ALB| BBF MUSIC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1035714&extension=m3u8&play_token=4jQK6ZB11H"
+  },
+  {
+    "name": "##### ALB CHILDREN #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=196722&extension=m3u8&play_token=G7tLy3SLNU"
+  },
+  {
+    "name": "ALB| Rm3u8H FEMIJE",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116130&extension=m3u8&play_token=ge9rk7ssLg"
+  },
+  {
+    "name": "ALB| BANG BANG",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116057&extension=m3u8&play_token=jctl6kYXNZ"
+  },
+  {
+    "name": "ALB| CUFO",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116060&extension=m3u8&play_token=tt6zaxqhe6"
+  },
+  {
+    "name": "ALB| JUNIOR",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116100&extension=m3u8&play_token=XAE1g9D5To"
+  },
+  {
+    "name": "ALB| TIP TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116175&extension=m3u8&play_token=8Q82kyhSzn"
+  },
+  {
+    "name": "ALB| TRING KIDS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116186&extension=m3u8&play_token=QPnFiMr3V1"
+  },
+  {
+    "name": "ALB| TRING TRING",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116192&extension=m3u8&play_token=FaJmejavEC"
+  },
+  {
+    "name": "ALB| SOFIA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116173&extension=m3u8&play_token=9gs6WCvdZy"
+  },
+  {
+    "name": "ALB| BOOMERANG",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116303&extension=m3u8&play_token=NfjV0zcWn7"
+  },
+  {
+    "name": "ALB| TOM & JERRY",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116162&extension=m3u8&play_token=NIsLumxzix"
+  },
+  {
+    "name": "ALB| DUCK TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116075&extension=m3u8&play_token=Ljucs0Z5Uh"
+  },
+  {
+    "name": "ALB| PJ MASKS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116118&extension=m3u8&play_token=X0t0f36nyx"
+  },
+  {
+    "name": "ALB| BABY TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116056&extension=m3u8&play_token=1C1iIk1Dhw"
+  },
+  {
+    "name": "ALB| ART PRINCE KIDS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116301&extension=m3u8&play_token=vCi1iOApyg"
+  },
+  {
+    "name": "ALB| DRAGON BALL Z HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116066&extension=m3u8&play_token=ylgaZ8YPiE"
+  },
+  {
+    "name": "##### ALB SPORT #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=196721&extension=m3u8&play_token=jeU4L6KGKZ"
+  },
+  {
+    "name": "ALB| SUPER SPORT 1 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116330&extension=m3u8&play_token=YcFRrkwauP"
+  },
+  {
+    "name": "ALB| SUPER SPORT 1 4K HEVC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=315174&extension=m3u8&play_token=N9eSniajkS"
+  },
+  {
+    "name": "ALB| SUPER SPORT 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116248&extension=m3u8&play_token=ZfsMlrQFfS"
+  },
+  {
+    "name": "ALB| SUPER SPORT 2 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116331&extension=m3u8&play_token=tdajpsPJHJ"
+  },
+  {
+    "name": "ALB| SUPER SPORT 2 4K HEVC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=315173&extension=m3u8&play_token=SH4Nd884Dn"
+  },
+  {
+    "name": "ALB| SUPER SPORT 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116249&extension=m3u8&play_token=FnRwqwU5sp"
+  },
+  {
+    "name": "ALB| SUPER SPORT 3 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116332&extension=m3u8&play_token=g3wOcW1htW"
+  },
+  {
+    "name": "ALB| SUPER SPORT 3 4K HEVC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=315172&extension=m3u8&play_token=jieXulPXIe"
+  },
+  {
+    "name": "ALB| SUPER SPORT 3 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116250&extension=m3u8&play_token=lz6Imp4Os6"
+  },
+  {
+    "name": "ALB| SUPER SPORT 4 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116333&extension=m3u8&play_token=14YejDz3Mg"
+  },
+  {
+    "name": "ALB| SUPER SPORT4 4K HEVC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=315171&extension=m3u8&play_token=3cRAo8aoJA"
+  },
+  {
+    "name": "ALB| SUPER SPORT 4 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116251&extension=m3u8&play_token=KiEHvpsnru"
+  },
+  {
+    "name": "ALB| SUPER SPORT 5 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116334&extension=m3u8&play_token=Dm3u8uU3yA5S"
+  },
+  {
+    "name": "ALB| SUPER SPORT 5 4K HEVC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=315170&extension=m3u8&play_token=HqhVxjbgrk"
+  },
+  {
+    "name": "ALB| SUPER SPORT 5 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116252&extension=m3u8&play_token=fdqrBT7FfX"
+  },
+  {
+    "name": "ALB| SUPER SPORT6 4K HEVC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=315169&extension=m3u8&play_token=d1jHO7jGXJ"
+  },
+  {
+    "name": "ALB| SUPER SPORT 6 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116335&extension=m3u8&play_token=LZ6EXi7JjP"
+  },
+  {
+    "name": "ALB| SUPER SPORT 6 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116253&extension=m3u8&play_token=ayPkr2qH66"
+  },
+  {
+    "name": "ALB| SUPER SPORT7 4K HEVC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=315168&extension=m3u8&play_token=paOJRgdAqA"
+  },
+  {
+    "name": "ALB| SUPER SPORT 7 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116336&extension=m3u8&play_token=aHqQTcJSej"
+  },
+  {
+    "name": "ALB| TRING SPORT NEWS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116218&extension=m3u8&play_token=nuTJGtl6c5"
+  },
+  {
+    "name": "ALB| TRING SPORT NEWS HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116219&extension=m3u8&play_token=PL2kbHl3YO"
+  },
+  {
+    "name": "ALB| TRING SPORT 1 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116210&extension=m3u8&play_token=CzDin1gbTH"
+  },
+  {
+    "name": "ALB| TRING SPORT 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116211&extension=m3u8&play_token=8KLr5pi7TP"
+  },
+  {
+    "name": "ALB| TRING SPORT 2 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116212&extension=m3u8&play_token=XSvdqelmv8"
+  },
+  {
+    "name": "ALB| TRING SPORT 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116213&extension=m3u8&play_token=lDNWMLKbMn"
+  },
+  {
+    "name": "ALB| TRING SPORT 3 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116214&extension=m3u8&play_token=2qjYjCQUh0"
+  },
+  {
+    "name": "ALB| TRING SPORT 3 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116215&extension=m3u8&play_token=2IomeVcpzX"
+  },
+  {
+    "name": "ALB| TRING SPORT 4 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116216&extension=m3u8&play_token=Q2M1vUHpuv"
+  },
+  {
+    "name": "ALB| TRING SPORT 4 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116217&extension=m3u8&play_token=q8qRrBC0oZ"
+  },
+  {
+    "name": "##### KO SPORT #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1122023&extension=m3u8&play_token=WrjsYsQwji"
+  },
+  {
+    "name": "ALB| SUPER SPORT KOSOVA 1",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=902985&extension=m3u8&play_token=yApgfAq5q2"
+  },
+  {
+    "name": "ALB| SUPER SPORT KOSOVA 2",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=902988&extension=m3u8&play_token=INZWNoE003"
+  },
+  {
+    "name": "ALB| K SPORT 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116257&extension=m3u8&play_token=xPcQwXHg9S"
+  },
+  {
+    "name": "ALB| K SPORT 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116258&extension=m3u8&play_token=w6U0ckYT9Q"
+  },
+  {
+    "name": "ALB| K SPORT 3 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116259&extension=m3u8&play_token=u5x5zE0rLl"
+  },
+  {
+    "name": "ALB| K SPORT 4 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116260&extension=m3u8&play_token=SixPSnuoS1"
+  },
+  {
+    "name": "ALB| K SPORT 5 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116247&extension=m3u8&play_token=TkZ12EaGe0"
+  },
+  {
+    "name": "ALB| ART SPORT 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116245&extension=m3u8&play_token=YTDjulHesO"
+  },
+  {
+    "name": "ALB| ART SPORT 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116244&extension=m3u8&play_token=N952LeQmEh"
+  },
+  {
+    "name": "ALB| ART SPORT 3 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116243&extension=m3u8&play_token=DAAXCDZdWo"
+  },
+  {
+    "name": "ALB| ART SPORT 4 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1033371&extension=m3u8&play_token=ew9awQViyX"
+  },
+  {
+    "name": "ALB| ART SPORT 5 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1033372&extension=m3u8&play_token=h2Xf3B7bdo"
+  },
+  {
+    "name": "ALB| ART SPORT 6 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1033373&extension=m3u8&play_token=BxDcRNhwyv"
+  },
+  {
+    "name": "ALB| FIGHT BOX HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116238&extension=m3u8&play_token=oVho4m7hQK"
+  },
+  {
+    "name": "##### KO GENERAL #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1122035&extension=m3u8&play_token=jReSaiLfgj"
+  },
+  {
+    "name": "ALB| RTK 1 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116364&extension=m3u8&play_token=41m1tqUZQg"
+  },
+  {
+    "name": "ALB| RTK 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116121&extension=m3u8&play_token=gufynUNrIv"
+  },
+  {
+    "name": "ALB| RTK 1",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116120&extension=m3u8&play_token=NVnvaJLfcl"
+  },
+  {
+    "name": "ALB| RTK 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116365&extension=m3u8&play_token=uRSWemx6ot"
+  },
+  {
+    "name": "ALB| RTK 2",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116122&extension=m3u8&play_token=ZYy5jT2sf4"
+  },
+  {
+    "name": "ALB| RTK 3 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116366&extension=m3u8&play_token=Y4ChMka7aH"
+  },
+  {
+    "name": "ALB| RTK 3 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116367&extension=m3u8&play_token=JgY0waRniN"
+  },
+  {
+    "name": "ALB| RTK 3",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116123&extension=m3u8&play_token=Lvzd92bSb5"
+  },
+  {
+    "name": "ALB| RTK 4 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116368&extension=m3u8&play_token=L0oYXrj5vG"
+  },
+  {
+    "name": "ALB| RTK 4",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116124&extension=m3u8&play_token=APlF5NsWBe"
+  },
+  {
+    "name": "ALB| RTV 21 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116138&extension=m3u8&play_token=mLKfkvMyPw"
+  },
+  {
+    "name": "ALB| RTV 21 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116137&extension=m3u8&play_token=iMFb14bvFk"
+  },
+  {
+    "name": "ALB| T V  1",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=906875&extension=m3u8&play_token=2O5XUMgUzc"
+  },
+  {
+    "name": "ALB| ATV HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=467632&extension=m3u8&play_token=C9ZUUmenlP"
+  },
+  {
+    "name": "ALB| ATV HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=472945&extension=m3u8&play_token=fkD4AqncoJ"
+  },
+  {
+    "name": "ALB| KTV KOHAVISION 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116110&extension=m3u8&play_token=CGHt6rLSkd"
+  },
+  {
+    "name": "ALB| KTV KOHAVISION HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116109&extension=m3u8&play_token=2NVTx1An0M"
+  },
+  {
+    "name": "ALB| TV KOHA HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116196&extension=m3u8&play_token=KTIzo3Nk9b"
+  },
+  {
+    "name": "ALB| KLAN KOSOVA 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116352&extension=m3u8&play_token=eeznllbk3J"
+  },
+  {
+    "name": "ALB| KLAN KOSOVA HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116105&extension=m3u8&play_token=b411hruKiu"
+  },
+  {
+    "name": "ALB| TV DUKAGJINI FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116305&extension=m3u8&play_token=Bf5c7TAr3r"
+  },
+  {
+    "name": "ALB| RTV DUKAGJINI",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=442786&extension=m3u8&play_token=JatajbUTX1"
+  },
+  {
+    "name": "ALB| RTV21 MIX HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116141&extension=m3u8&play_token=wcjbYNOfRR"
+  },
+  {
+    "name": "ALB| RTV21 PLUS HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116143&extension=m3u8&play_token=jd6gGaoylS"
+  },
+  {
+    "name": "ALB| RTV21 JUNIOR",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116139&extension=m3u8&play_token=dFQ7dmqDd4"
+  },
+  {
+    "name": "ALB| FIRST TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116095&extension=m3u8&play_token=cTUMqOFgpu"
+  },
+  {
+    "name": "ALB| T7 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116337&extension=m3u8&play_token=SReRAjw7Ad"
+  },
+  {
+    "name": "ALB| T7",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116174&extension=m3u8&play_token=inproQD2z4"
+  },
+  {
+    "name": "ALB| KANAL 10 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1030842&extension=m3u8&play_token=MPIb1nV9IU"
+  },
+  {
+    "name": "ALB| KANAL 10",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116266&extension=m3u8&play_token=VRE11zev19"
+  },
+  {
+    "name": "ALB| SYRI VISION",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116234&extension=m3u8&play_token=13LfB2LFde"
+  },
+  {
+    "name": "ALB| ARTI TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=844820&extension=m3u8&play_token=w2ezsenvXB"
+  },
+  {
+    "name": "##### KO NEWS #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1122030&extension=m3u8&play_token=u86M6MVsN7"
+  },
+  {
+    "name": "ALB| ARTA NEWS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116232&extension=m3u8&play_token=e7c6JPXhpO"
+  },
+  {
+    "name": "ALB| ARTA NEWS 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116302&extension=m3u8&play_token=MqXgjChz3q"
+  },
+  {
+    "name": "ALB| RTV21 NEWSBIZ 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116142&extension=m3u8&play_token=EbOZacnWxY"
+  },
+  {
+    "name": "##### KO DOCUMENTARIES #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1122029&extension=m3u8&play_token=ibDPhwHph4"
+  },
+  {
+    "name": "ALB| ART DOKU 1",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=992098&extension=m3u8&play_token=Wq5nojkORl"
+  },
+  {
+    "name": "ALB| ART DOKU 2",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=992097&extension=m3u8&play_token=eNvQ00Ml9M"
+  },
+  {
+    "name": "ALB| X HISTORI HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116280&extension=m3u8&play_token=CtrwbrXjG8"
+  },
+  {
+    "name": "ALB| X NATYRA HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116283&extension=m3u8&play_token=X6u0z0W0Ip"
+  },
+  {
+    "name": "ALB| SKY PLANET",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116170&extension=m3u8&play_token=2Zbk7OO1DQ"
+  },
+  {
+    "name": "ALB| SKY SHKENCE",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116171&extension=m3u8&play_token=HC7Rq0XRvE"
+  },
+  {
+    "name": "ALB| SKY HISTORY",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116172&extension=m3u8&play_token=nbBtKVpzej"
+  },
+  {
+    "name": "##### KO REGIONAL #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1122028&extension=m3u8&play_token=FPHdN8opeL"
+  },
+  {
+    "name": "ALB| BESA TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116235&extension=m3u8&play_token=4LBtb8zMSn"
+  },
+  {
+    "name": "ALB| TV LIRIA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116197&extension=m3u8&play_token=JLVGe5mlxJ"
+  },
+  {
+    "name": "ALB| TV MITROVICA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116222&extension=m3u8&play_token=eRBPaoimoP"
+  },
+  {
+    "name": "ALB| ISTOGU CHANNEL FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1081242&extension=m3u8&play_token=D3YamCAh2M"
+  },
+  {
+    "name": "ALB| TV PRIZRENI",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=739509&extension=m3u8&play_token=SM2X91YEqh"
+  },
+  {
+    "name": "ALB| DIELLI TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1035718&extension=m3u8&play_token=hRy46wBUow"
+  },
+  {
+    "name": "ALB| DIASPORA TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1035716&extension=m3u8&play_token=LCUFs8I8D7"
+  },
+  {
+    "name": "ALB| RTV FONTANA HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1081149&extension=m3u8&play_token=qoHH93eLGW"
+  },
+  {
+    "name": "ALB| SPIN TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1083964&extension=m3u8&play_token=nbqLCnmg0g"
+  },
+  {
+    "name": "##### KO MACEDONIA & MONTENEGRO #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1122027&extension=m3u8&play_token=zsho1p819E"
+  },
+  {
+    "name": "ALB| RTV21 MAQEDONIA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116140&extension=m3u8&play_token=DBJ8otq311"
+  },
+  {
+    "name": "ALB| ALSAT M FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116051&extension=m3u8&play_token=Hq53Utzypz"
+  },
+  {
+    "name": "ALB| ALSAT M",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116050&extension=m3u8&play_token=IYarbQk3mB"
+  },
+  {
+    "name": "ALB| MRT 2",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116263&extension=m3u8&play_token=TEtfvDJ6aV"
+  },
+  {
+    "name": "ALB| KLAN MACEDONIA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116324&extension=m3u8&play_token=v4NDEvoTRy"
+  },
+  {
+    "name": "ALB| TV2 GOSTIVAR",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116206&extension=m3u8&play_token=Ll3AC5DkGN"
+  },
+  {
+    "name": "ALB| TV GLOBI HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1081859&extension=m3u8&play_token=vikRAx9mCl"
+  },
+  {
+    "name": "ALB| TV TETOVA HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116256&extension=m3u8&play_token=zBEVq2uh7V"
+  },
+  {
+    "name": "ALB| TV USKANA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=238028&extension=m3u8&play_token=blo5nIs3Gs"
+  },
+  {
+    "name": "ALB| SHENJA TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116145&extension=m3u8&play_token=0IjMkGTKGn"
+  },
+  {
+    "name": "ALB| POLLOGU TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1035715&extension=m3u8&play_token=IN1RgE3hyW"
+  },
+  {
+    "name": "ALB| RTV ILIRIDA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=811269&extension=m3u8&play_token=MCdNyJdK3j"
+  },
+  {
+    "name": "ALB| RTV ILIRIDA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=622181&extension=m3u8&play_token=IQDFNl0qbJ"
+  },
+  {
+    "name": "ALB| RTV ILIRIDA : MUSIC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=828920&extension=m3u8&play_token=IJ9I1k1CSn"
+  },
+  {
+    "name": "ALB| RTV ILIRIDA : HUMOUR",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=828919&extension=m3u8&play_token=GU7UFgRSlJ"
+  },
+  {
+    "name": "ALB| RTV ILIRIDA : FEMIJ",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=828918&extension=m3u8&play_token=3Ty1c8Fo5t"
+  },
+  {
+    "name": "ALB| RTV ILIRIDA : FILM",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=828901&extension=m3u8&play_token=qics1zWD1H"
+  },
+  {
+    "name": "ALB| RTV ILIRIDA : DOKUMENTAR",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=828843&extension=m3u8&play_token=QFyW0LpHi1"
+  },
+  {
+    "name": "ALB| RTV ILIRIDA : RTV ILIRIDA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=828827&extension=m3u8&play_token=eTdarj4WFm"
+  },
+  {
+    "name": "ALB| ULQINI TV HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1035713&extension=m3u8&play_token=6ubhrLY6EM"
+  },
+  {
+    "name": "##### KO MUSIC #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1122026&extension=m3u8&play_token=yYrUPWyxTn"
+  },
+  {
+    "name": "ALB| TV ERA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116194&extension=m3u8&play_token=8GnvJOIsCD"
+  },
+  {
+    "name": "ALB| DASMA TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=746078&extension=m3u8&play_token=eofniCxoD7"
+  },
+  {
+    "name": "ALB| TOP ESTRADA MUSIC HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116178&extension=m3u8&play_token=5pjSxr3Orq"
+  },
+  {
+    "name": "ALB| VIVA MUSIC",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116201&extension=m3u8&play_token=2WqeM9M5b0"
+  },
+  {
+    "name": "ALB| TV TEUTA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1040570&extension=m3u8&play_token=ujjoic5m63"
+  },
+  {
+    "name": "ALB| MTV KOSOVA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116341&extension=m3u8&play_token=oidmx3OfVA"
+  },
+  {
+    "name": "ALB| MUSIC: TV SHARRI HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116362&extension=m3u8&play_token=DYMluG3olV"
+  },
+  {
+    "name": "ALB| PITO MUSIC HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=160681&extension=m3u8&play_token=MW58y7tIIB"
+  },
+  {
+    "name": "ALB| SYRI BLU MUSIC HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116271&extension=m3u8&play_token=t4TXfsVLG3"
+  },
+  {
+    "name": "ALB| RTV21 POPULLORE HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116144&extension=m3u8&play_token=7XrFV8ppLQ"
+  },
+  {
+    "name": "ALB| SWISS TV HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116049&extension=m3u8&play_token=BE0JKJfY8H"
+  },
+  {
+    "name": "ALB| ZICO TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116228&extension=m3u8&play_token=G1nWz2qFk7"
+  },
+  {
+    "name": "ALB| TURBO CHANNEL",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116269&extension=m3u8&play_token=c6nBUdE6ZE"
+  },
+  {
+    "name": "ALB| SHOTA TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1035720&extension=m3u8&play_token=OljsjPgqVQ"
+  },
+  {
+    "name": "##### KO MOVIES & SERIES #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1122025&extension=m3u8&play_token=wRXU3a5A37"
+  },
+  {
+    "name": "ALB| ART KINO PREMIUM 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116297&extension=m3u8&play_token=XninmNB2wx"
+  },
+  {
+    "name": "ALB| ART KINO PREMIUM 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116298&extension=m3u8&play_token=uKElVaYs6A"
+  },
+  {
+    "name": "ALB| ART PRIME HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116300&extension=m3u8&play_token=ot59CMRCPL"
+  },
+  {
+    "name": "ALB| FILMBOX ARTHOUSE",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116091&extension=m3u8&play_token=YBblhwvIiy"
+  },
+  {
+    "name": "ALB| FILMBOX EXTRA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116092&extension=m3u8&play_token=fhm3h52UPE"
+  },
+  {
+    "name": "ALB| FILMBOX PLUS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116093&extension=m3u8&play_token=oXbFnQQG06"
+  },
+  {
+    "name": "ALB| FILMBOX PREMIUM",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116094&extension=m3u8&play_token=NBBSmVMY72"
+  },
+  {
+    "name": "ALB| KINO PREMIER 1 4K",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116316&extension=m3u8&play_token=qR69GrBlv2"
+  },
+  {
+    "name": "ALB| KINO PREMIER 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116317&extension=m3u8&play_token=nsgMUxfO63"
+  },
+  {
+    "name": "ALB| KINO FESTA HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116311&extension=m3u8&play_token=Wk4Z053vcV"
+  },
+  {
+    "name": "ALB| KINO HISTORY HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116312&extension=m3u8&play_token=vWDCiVyPU8"
+  },
+  {
+    "name": "ALB| KINO SHQIP HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116310&extension=m3u8&play_token=GQYV8BXa4b"
+  },
+  {
+    "name": "ALB| KINO STUPCAT HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116321&extension=m3u8&play_token=oWeLFd4tvA"
+  },
+  {
+    "name": "ALB| KINO THRILLER HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116322&extension=m3u8&play_token=mjWihWgbvY"
+  },
+  {
+    "name": "ALB| Q ACTION HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116151&extension=m3u8&play_token=Q4WnZKBM0o"
+  },
+  {
+    "name": "ALB| Q DRAMA HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116154&extension=m3u8&play_token=4T9aypBVyr"
+  },
+  {
+    "name": "ALB| Q KOMEDI HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116157&extension=m3u8&play_token=aq43MqOCqr"
+  },
+  {
+    "name": "ALB| Q MUZIKE SHQIP",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116156&extension=m3u8&play_token=AeUTIZW7E5"
+  },
+  {
+    "name": "ALB| Q POPULLORE HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116158&extension=m3u8&play_token=3R5SVX5Wdr"
+  },
+  {
+    "name": "ALB| Q PREMIUM 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116146&extension=m3u8&play_token=NyWq8y5jXo"
+  },
+  {
+    "name": "ALB| Q PREMIUM 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116147&extension=m3u8&play_token=trbngAjBY0"
+  },
+  {
+    "name": "ALB| Q STUPCAT HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116161&extension=m3u8&play_token=wiz97tHOxw"
+  },
+  {
+    "name": "ALB| Q THRILLER HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116152&extension=m3u8&play_token=HBf6esxpn1"
+  },
+  {
+    "name": "ALB| Q WESTERN HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116163&extension=m3u8&play_token=XVxzzprJ0M"
+  },
+  {
+    "name": "ALB| EURO FILM 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116068&extension=m3u8&play_token=d6i08xgEqB"
+  },
+  {
+    "name": "ALB| EURO FILM 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116069&extension=m3u8&play_token=F0dQsj8lhr"
+  },
+  {
+    "name": "ALB| EURO FILM 3 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116070&extension=m3u8&play_token=Cr9luv6geo"
+  },
+  {
+    "name": "ALB| EURO FILM 4 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116071&extension=m3u8&play_token=2XWGeKYHD3"
+  },
+  {
+    "name": "ALB| TV PLISI ACTION HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116198&extension=m3u8&play_token=IaPs8eokuu"
+  },
+  {
+    "name": "ALB| TV PLISI FANTASY HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116200&extension=m3u8&play_token=lvJ6uXXSyu"
+  },
+  {
+    "name": "ALB| TV PLISI HORROR HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116202&extension=m3u8&play_token=s9C6Bs53XI"
+  },
+  {
+    "name": "ALB| TV PLISI HUMOR HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116203&extension=m3u8&play_token=bC3b872JMl"
+  },
+  {
+    "name": "ALB| TV PLISI QIFTELI HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116204&extension=m3u8&play_token=HQC3t3KLrl"
+  },
+  {
+    "name": "ALB| TV PLISI THRILLER HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116205&extension=m3u8&play_token=9vwgCvfHs8"
+  },
+  {
+    "name": "ALB| X ACTION HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116274&extension=m3u8&play_token=NbzUef5Pmz"
+  },
+  {
+    "name": "ALB| X CIFTELI HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116275&extension=m3u8&play_token=WlL6BQVeZi"
+  },
+  {
+    "name": "ALB| X COMEDY HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116276&extension=m3u8&play_token=gyYUvNYYpR"
+  },
+  {
+    "name": "ALB| X DARK HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116277&extension=m3u8&play_token=zEcaNyrTBC"
+  },
+  {
+    "name": "ALB| X DRAMA HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116278&extension=m3u8&play_token=gETVYwkHMv"
+  },
+  {
+    "name": "ALB| X FAMILY HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116279&extension=m3u8&play_token=wD3YCmoPKX"
+  },
+  {
+    "name": "ALB| X FILMA 24 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116340&extension=m3u8&play_token=KsabIrFGZw"
+  },
+  {
+    "name": "ALB| X HUMOR HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116281&extension=m3u8&play_token=U44MSh32fe"
+  },
+  {
+    "name": "ALB| X MUSIC HIm3u8 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116282&extension=m3u8&play_token=pOzR7bjBdd"
+  },
+  {
+    "name": "ALB| X THRILLER HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116292&extension=m3u8&play_token=DkAGsDlIMB"
+  },
+  {
+    "name": "ALB| TELE ONE 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=160693&extension=m3u8&play_token=TgxxwWhgGG"
+  },
+  {
+    "name": "ALB| TELE ONE 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=160694&extension=m3u8&play_token=DTVgNiTnU5"
+  },
+  {
+    "name": "ALB| TELE ONE 3 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=160695&extension=m3u8&play_token=ZzoK8LMUSF"
+  },
+  {
+    "name": "ALB| TELE ONE 4 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=160696&extension=m3u8&play_token=eVZuLwFqOJ"
+  },
+  {
+    "name": "ALB| TELE ONE 5 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=160697&extension=m3u8&play_token=7inuEQmOo2"
+  },
+  {
+    "name": "ALB| TELE ONE 6 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=160698&extension=m3u8&play_token=VV0k3xfvOj"
+  },
+  {
+    "name": "ALB| PITO HUMOR HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116343&extension=m3u8&play_token=655Q1IAzAe"
+  },
+  {
+    "name": "ALB| PITO LOL HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116344&extension=m3u8&play_token=aiP0awUtZg"
+  },
+  {
+    "name": "ALB| FAST & FURIOUS 24/7 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=467709&extension=m3u8&play_token=ZSFeqzIoyy"
+  },
+  {
+    "name": "ALB| KAFENEJA JONE 24/7 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=467655&extension=m3u8&play_token=YTtIrArdmc"
+  },
+  {
+    "name": "ALB| KS FILMA24 KRIM",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=467667&extension=m3u8&play_token=hvNjwc7dla"
+  },
+  {
+    "name": "ALB| KS FILMA24 MISTER",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=467665&extension=m3u8&play_token=y5GFLEJvYn"
+  },
+  {
+    "name": "ALB| KS FILMA24 ROMANCE",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=467669&extension=m3u8&play_token=O0852JLwZi"
+  },
+  {
+    "name": "ALB| KS FILMA24 TRILLER",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=467666&extension=m3u8&play_token=UK3mpylKXK"
+  },
+  {
+    "name": "ALB| KS STUPCAT FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=467652&extension=m3u8&play_token=TuT7Y5iz65"
+  },
+  {
+    "name": "ALB| KS THRILLER HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=467691&extension=m3u8&play_token=dliRAeDiBy"
+  },
+  {
+    "name": "ALB| FIRST DRAME HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=167300&extension=m3u8&play_token=SYM7yQ0f8i"
+  },
+  {
+    "name": "ALB| FIRST COMEDY HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=167299&extension=m3u8&play_token=ytm3hZKVMv"
+  },
+  {
+    "name": "ALB| SKY 7",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116164&extension=m3u8&play_token=itfLKviS0Y"
+  },
+  {
+    "name": "ALB| SKY AKSION",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116165&extension=m3u8&play_token=Dbj6YyN93w"
+  },
+  {
+    "name": "ALB| SKY COMEDY",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116167&extension=m3u8&play_token=9IWZUsPo7S"
+  },
+  {
+    "name": "ALB| SKY DRAME",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116166&extension=m3u8&play_token=UR3JLwytKu"
+  },
+  {
+    "name": "ALB| SKY MAX",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116168&extension=m3u8&play_token=Udgt7NPbTn"
+  },
+  {
+    "name": "##### ISLAM #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=196716&extension=m3u8&play_token=9Kf3KnH5Iy"
+  },
+  {
+    "name": "ALB| ISLAM CHANNEL 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116098&extension=m3u8&play_token=O9XUC6rfJp"
+  },
+  {
+    "name": "ALB| RTV 1 ISLAM",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116227&extension=m3u8&play_token=ciLdysBAPL"
+  },
+  {
+    "name": "ALB| ICE ISLAM HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116241&extension=m3u8&play_token=mp02NX3jnF"
+  },
+  {
+    "name": "ALB| MEDINE LIVE",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116261&extension=m3u8&play_token=dcFJlBZE84"
+  },
+  {
+    "name": "ALB| MEKKE LIVE HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116262&extension=m3u8&play_token=cL2mGmCfck"
+  },
+  {
+    "name": "ALB| PEACE TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116265&extension=m3u8&play_token=LgIyEvSjgH"
+  },
+  {
+    "name": "ALB| RTV ISLAM",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116267&extension=m3u8&play_token=9aYSti51vB"
+  },
+  {
+    "name": "ALB| DH TV HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116061&extension=m3u8&play_token=ufLbxRD9Dm"
+  },
+  {
+    "name": "ALB| RTV PENDIMI HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=116268&extension=m3u8&play_token=TrfgC3sUhU"
+  },
+  {
+    "name": "ALB| RTV-SHQIP ELKALEM",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=921829&extension=m3u8&play_token=WwgM8YYyiR"
+  },
+  {
+    "name": "##### KO CHILDREN #####",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1292942&extension=m3u8&play_token=6ZZDfakwCW"
+  },
+  {
+    "name": "####### ALBANIA PREMIUM ??? #######",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720032&extension=m3u8&play_token=oWJUGSlCd3"
+  },
+  {
+    "name": "ALB| RTK 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720031&extension=m3u8&play_token=YCePph5q2b"
+  },
+  {
+    "name": "ALB| RTK 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720030&extension=m3u8&play_token=TRgd4eMPzQ"
+  },
+  {
+    "name": "ALB| KLAN KOSOVA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720029&extension=m3u8&play_token=wOAzG4XsRR"
+  },
+  {
+    "name": "ALB| RTV 21 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720028&extension=m3u8&play_token=treRbBXIWx"
+  },
+  {
+    "name": "ALB| KTV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720027&extension=m3u8&play_token=Up4VXqvkDD"
+  },
+  {
+    "name": "ALB| T7 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720026&extension=m3u8&play_token=BH2xOZMUWf"
+  },
+  {
+    "name": "ALB| ALSAT M ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720025&extension=m3u8&play_token=6EatqHD5Ls"
+  },
+  {
+    "name": "ALB| DUKAGJINI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720024&extension=m3u8&play_token=wBk9DIAQJm"
+  },
+  {
+    "name": "ALB| T V 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720023&extension=m3u8&play_token=G1P7PDet4H"
+  },
+  {
+    "name": "ALB| TOP CHANNEL ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720022&extension=m3u8&play_token=8fPPJMHIXe"
+  },
+  {
+    "name": "ALB| KLAN ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720021&extension=m3u8&play_token=a6qvHmwWLw"
+  },
+  {
+    "name": "ALB| VIZION PLUS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720020&extension=m3u8&play_token=ZjKfNWLhEx"
+  },
+  {
+    "name": "ALB| KANAL 10 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720019&extension=m3u8&play_token=tbuD4Wdei1"
+  },
+  {
+    "name": "ALB| A TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720018&extension=m3u8&play_token=1nqahroq4y"
+  },
+  {
+    "name": "ALB| D TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720017&extension=m3u8&play_token=7tF21X0CSe"
+  },
+  {
+    "name": "ALB| PRO1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720016&extension=m3u8&play_token=D6fEhjlv9o"
+  },
+  {
+    "name": "ALB| 20 DIGITALB ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720015&extension=m3u8&play_token=A1lkVNMqum"
+  },
+  {
+    "name": "ALB| Rm3u8H 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720014&extension=m3u8&play_token=wEZxIyvUIY"
+  },
+  {
+    "name": "ALB| Rm3u8H 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720013&extension=m3u8&play_token=lSYiFOvPLu"
+  },
+  {
+    "name": "ALB| Rm3u8H SHQIP ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720012&extension=m3u8&play_token=vGeFClsWr6"
+  },
+  {
+    "name": "ALB| Rm3u8H 24 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720011&extension=m3u8&play_token=oUpv1mWDum"
+  },
+  {
+    "name": "ALB| Rm3u8H PLUS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720010&extension=m3u8&play_token=sadTu4gXU3"
+  },
+  {
+    "name": "ALB| MCN ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720009&extension=m3u8&play_token=D6UkliW8mX"
+  },
+  {
+    "name": "ALB| Rm3u8H 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720008&extension=m3u8&play_token=zRQxOMmBq2"
+  },
+  {
+    "name": "ALB| TV PRIZRENI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720007&extension=m3u8&play_token=yv0QoZxQom"
+  },
+  {
+    "name": "ALB| STAR PLUS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720006&extension=m3u8&play_token=kDvVUfe2S0"
+  },
+  {
+    "name": "ALB| NEWS 24 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720005&extension=m3u8&play_token=kRGuh0SxWo"
+  },
+  {
+    "name": "ALB| TV LIRIA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720004&extension=m3u8&play_token=FBBDSO9Vp3"
+  },
+  {
+    "name": "ALB| TV TEMA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720001&extension=m3u8&play_token=t3b664JA8t"
+  },
+  {
+    "name": "ALB| TV MITROVICA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720000&extension=m3u8&play_token=yMn8HtkxSB"
+  },
+  {
+    "name": "ALB| SYRI TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719999&extension=m3u8&play_token=HHeRpFYAXM"
+  },
+  {
+    "name": "ALB| BESA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719998&extension=m3u8&play_token=v9Hz8p8JJi"
+  },
+  {
+    "name": "ALB| ARTA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719997&extension=m3u8&play_token=RhSCH8uguu"
+  },
+  {
+    "name": "ALB| ATD TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719996&extension=m3u8&play_token=69WYVZrWP3"
+  },
+  {
+    "name": "ALB| ALBUK ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719995&extension=m3u8&play_token=SixSAvwBB4"
+  },
+  {
+    "name": "ALB| LLAPI TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719994&extension=m3u8&play_token=a688HD4rG7"
+  },
+  {
+    "name": "ALB| RTV 21 MK ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719993&extension=m3u8&play_token=Dlu8yUX7Rs"
+  },
+  {
+    "name": "ALB| E-TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719992&extension=m3u8&play_token=zBTUcGcPs5"
+  },
+  {
+    "name": "ALB| FIRST CHANNEL ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719991&extension=m3u8&play_token=JFZ9j52Nha"
+  },
+  {
+    "name": "ALB| RTK 4 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719990&extension=m3u8&play_token=nzt0AIwVc1"
+  },
+  {
+    "name": "ALB| RTK 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719989&extension=m3u8&play_token=mt8hQVp2PG"
+  },
+  {
+    "name": "ALB| TV TEUTA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719988&extension=m3u8&play_token=ByZYwtnzxc"
+  },
+  {
+    "name": "ALB| TV KOPLIKU ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719987&extension=m3u8&play_token=YcNGxp3oKc"
+  },
+  {
+    "name": "ALB| TV LEZHA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719986&extension=m3u8&play_token=USn5LeflFD"
+  },
+  {
+    "name": "ALB| LUXE TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719985&extension=m3u8&play_token=2CPG31m5G3"
+  },
+  {
+    "name": "ALB| SHENJA TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719984&extension=m3u8&play_token=K0vbJWdmyM"
+  },
+  {
+    "name": "ALB| TV SKAMPA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719983&extension=m3u8&play_token=CRAyT3bHUr"
+  },
+  {
+    "name": "ALB| ZJARR TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719982&extension=m3u8&play_token=L0lm3u8jEX1F"
+  },
+  {
+    "name": "ALB| PEACE TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719981&extension=m3u8&play_token=XK4jqzBC7i"
+  },
+  {
+    "name": "ALB| RTV PENDIMI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719980&extension=m3u8&play_token=V3OCGX9Sqv"
+  },
+  {
+    "name": "ALB| RTI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719979&extension=m3u8&play_token=mXSLGs8enT"
+  },
+  {
+    "name": "ALB| MEKA LIVE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719978&extension=m3u8&play_token=5Jsi0UApNO"
+  },
+  {
+    "name": "ALB| MEDINA LIVE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719977&extension=m3u8&play_token=wkP8bmCaMM"
+  },
+  {
+    "name": "ALB| TV OPOJA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719976&extension=m3u8&play_token=x1xhzr9L3t"
+  },
+  {
+    "name": "ALB| RTV ISLAM ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719975&extension=m3u8&play_token=fROLJbf62L"
+  },
+  {
+    "name": "ALB| GOLD ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719974&extension=m3u8&play_token=XrrzoLE1o2"
+  },
+  {
+    "name": "ALB| MAX ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719973&extension=m3u8&play_token=QPBuIzsLGH"
+  },
+  {
+    "name": "ALB| FAMILY ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719972&extension=m3u8&play_token=ze3qkPkjTg"
+  },
+  {
+    "name": "ALB| EUROFILM ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719971&extension=m3u8&play_token=2jIuFMRLHQ"
+  },
+  {
+    "name": "ALB| AUTOR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719970&extension=m3u8&play_token=WBmMtIWq8Z"
+  },
+  {
+    "name": "ALB| HIm3u8 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719969&extension=m3u8&play_token=iq9ye5wXwE"
+  },
+  {
+    "name": "ALB| THRILLER ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719968&extension=m3u8&play_token=IOEkycmocN"
+  },
+  {
+    "name": "ALB| AKSION ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719967&extension=m3u8&play_token=QIAYVig1XH"
+  },
+  {
+    "name": "ALB| KOMEDI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719966&extension=m3u8&play_token=omJdo3hDG5"
+  },
+  {
+    "name": "ALB| DRAM  ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719965&extension=m3u8&play_token=UNPcaxl2f9"
+  },
+  {
+    "name": "ALB| STIN T ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719964&extension=m3u8&play_token=GwkFSspzSq"
+  },
+  {
+    "name": "ALB| T ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719963&extension=m3u8&play_token=5jD2TGMqke"
+  },
+  {
+    "name": "ALB| TDC DIZI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719962&extension=m3u8&play_token=vHuzkf4xrW"
+  },
+  {
+    "name": "ALB| KINO 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719961&extension=m3u8&play_token=YzTUBVM4Q2"
+  },
+  {
+    "name": "ALB| KINO 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719960&extension=m3u8&play_token=52jCgpOWF5"
+  },
+  {
+    "name": "ALB| KINO 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719959&extension=m3u8&play_token=vxT6UARoEv"
+  },
+  {
+    "name": "ALB| PREMIERE 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719958&extension=m3u8&play_token=R7WFkpFnG9"
+  },
+  {
+    "name": "ALB| PREMIERE 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719957&extension=m3u8&play_token=8NOyYwQum9"
+  },
+  {
+    "name": "ALB| PREMIERE 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719956&extension=m3u8&play_token=k9vLQXo0wT"
+  },
+  {
+    "name": "ALB| PREMIERE 4 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719955&extension=m3u8&play_token=1IcMyDghCS"
+  },
+  {
+    "name": "ALB| STAR MOVIES ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719954&extension=m3u8&play_token=cBivJtuAej"
+  },
+  {
+    "name": "ALB| STAR CHANNEL ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719953&extension=m3u8&play_token=PhoA6ETbyZ"
+  },
+  {
+    "name": "ALB| STAR LIFE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719952&extension=m3u8&play_token=Yla6QkUXmC"
+  },
+  {
+    "name": "ALB| PRIME ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719951&extension=m3u8&play_token=Lli5IoxZj1"
+  },
+  {
+    "name": "ALB| EPISODE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719950&extension=m3u8&play_token=ZpKWgU8cbm"
+  },
+  {
+    "name": "ALB| TRING 3+ ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719949&extension=m3u8&play_token=zOACFwIDRz"
+  },
+  {
+    "name": "ALB| KANAL D DRAMA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719948&extension=m3u8&play_token=QgQGfJt3Lb"
+  },
+  {
+    "name": "ALB| SMILE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719947&extension=m3u8&play_token=Y7iXeJFFXQ"
+  },
+  {
+    "name": "ALB| TRING FAMILY ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719946&extension=m3u8&play_token=895snpMNHy"
+  },
+  {
+    "name": "ALB| TRING SHQIP ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719945&extension=m3u8&play_token=dSrcb9ZSj4"
+  },
+  {
+    "name": "ALB| TRING SUPER ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719944&extension=m3u8&play_token=LGzxQndN9S"
+  },
+  {
+    "name": "ALB| TRING ACTION ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719943&extension=m3u8&play_token=fZJvZVqHQv"
+  },
+  {
+    "name": "ALB| TRING LIFE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719942&extension=m3u8&play_token=G7wUWsp9NY"
+  },
+  {
+    "name": "ALB| TRING COMEDY ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719941&extension=m3u8&play_token=GdguEhKo5q"
+  },
+  {
+    "name": "ALB| TRING FANTASY ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719940&extension=m3u8&play_token=JjiSBrulCt"
+  },
+  {
+    "name": "ALB| TRING COLLECTION ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719939&extension=m3u8&play_token=4A7Btl7VnC"
+  },
+  {
+    "name": "ALB| TRING CLASSIC ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719938&extension=m3u8&play_token=G7e9KknhjX"
+  },
+  {
+    "name": "ALB| TRING SERIES ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719937&extension=m3u8&play_token=eDKB0C2jat"
+  },
+  {
+    "name": "ALB| TRING TURKISH STORIES ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719936&extension=m3u8&play_token=OQyKlherfP"
+  },
+  {
+    "name": "ALB| TRING NOVELAS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719935&extension=m3u8&play_token=TQrEO3u1st"
+  },
+  {
+    "name": "ALB| Rm3u8H FILM ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719934&extension=m3u8&play_token=xpwfgSYAL6"
+  },
+  {
+    "name": "ALB| DARK PRIME 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719933&extension=m3u8&play_token=ceHoDqLhGK"
+  },
+  {
+    "name": "ALB| DARK PRIME 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719932&extension=m3u8&play_token=sNWJXyxGXs"
+  },
+  {
+    "name": "ALB| DARK PRIME 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719931&extension=m3u8&play_token=zlIiAsPWBN"
+  },
+  {
+    "name": "ALB| DARK PRIME 4 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719930&extension=m3u8&play_token=xGpqJNWuVW"
+  },
+  {
+    "name": "ALB| DARK GOLD 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719929&extension=m3u8&play_token=0lkHcG40Pj"
+  },
+  {
+    "name": "ALB| DARK GOLD 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719928&extension=m3u8&play_token=P3XzAlV99K"
+  },
+  {
+    "name": "ALB| DARK GOLD 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719927&extension=m3u8&play_token=OtqYHxQgWQ"
+  },
+  {
+    "name": "ALB| DARK GOLD 4 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719926&extension=m3u8&play_token=O8MwzfbuDu"
+  },
+  {
+    "name": "ALB| DARK NETFLIX 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719925&extension=m3u8&play_token=euYrsWmaLp"
+  },
+  {
+    "name": "ALB| DARK NETFLIX 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719924&extension=m3u8&play_token=KeIY1GJ4mI"
+  },
+  {
+    "name": "ALB| DARK NETFLIX 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719923&extension=m3u8&play_token=bGUFWsa0wD"
+  },
+  {
+    "name": "ALB| DARK NETFLIX 4 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719922&extension=m3u8&play_token=2gaW83O7CO"
+  },
+  {
+    "name": "ALB| DARK AKSION ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719921&extension=m3u8&play_token=YMHV2Rnc0m"
+  },
+  {
+    "name": "ALB| DARK THRILLER ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719920&extension=m3u8&play_token=PEDvRSTEbt"
+  },
+  {
+    "name": "ALB| DARK DELUXE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719919&extension=m3u8&play_token=K33euA8CkF"
+  },
+  {
+    "name": "ALB| DARK SPECIAL ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719918&extension=m3u8&play_token=T26EORIadC"
+  },
+  {
+    "name": "ALB| DARK KOMEDI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719917&extension=m3u8&play_token=9avVaxOMPN"
+  },
+  {
+    "name": "ALB| DARK HORROR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719916&extension=m3u8&play_token=Odsrg95pqg"
+  },
+  {
+    "name": "ALB| DARK WESTERN ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719915&extension=m3u8&play_token=X1gcLBSC6C"
+  },
+  {
+    "name": "ALB| DARK KLASIKE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719914&extension=m3u8&play_token=MKSKAboK98"
+  },
+  {
+    "name": "ALB| DARK FAMILJE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719913&extension=m3u8&play_token=TLel71oWwu"
+  },
+  {
+    "name": "ALB| DARK FANTAZI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719912&extension=m3u8&play_token=nERttBhZB3"
+  },
+  {
+    "name": "ALB| DARK ROMANCE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719911&extension=m3u8&play_token=ISWIzH6p7s"
+  },
+  {
+    "name": "ALB| DARK HINDI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719910&extension=m3u8&play_token=LvvKknXxyz"
+  },
+  {
+    "name": "ALB| DARK SHQIP ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719909&extension=m3u8&play_token=YdwIvJ8hid"
+  },
+  {
+    "name": "ALB| BANG BANG ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719908&extension=m3u8&play_token=3f0ld6aR08"
+  },
+  {
+    "name": "ALB|  UFO ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719907&extension=m3u8&play_token=5Omn2hV7eQ"
+  },
+  {
+    "name": "ALB| JUNIOR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719906&extension=m3u8&play_token=QQgwCoMP2Y"
+  },
+  {
+    "name": "ALB| PRINCE KIDS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719905&extension=m3u8&play_token=zvN9fKHWQy"
+  },
+  {
+    "name": "ALB| TAO TAO ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719904&extension=m3u8&play_token=HZ5cALJ5Nn"
+  },
+  {
+    "name": "ALB| A KIDS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719903&extension=m3u8&play_token=fIvFaDeEU4"
+  },
+  {
+    "name": "ALB| TRING TRING ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719902&extension=m3u8&play_token=sgfIn24Tfg"
+  },
+  {
+    "name": "ALB| TRING KIDS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719901&extension=m3u8&play_token=VQG1KbshRe"
+  },
+  {
+    "name": "ALB| TIP TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719900&extension=m3u8&play_token=SROirP7PgF"
+  },
+  {
+    "name": "ALB| BUBBLE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719899&extension=m3u8&play_token=MqvoWGa7Y4"
+  },
+  {
+    "name": "ALB| RTV 21 JUNIOR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719898&extension=m3u8&play_token=dZAyDJuYdF"
+  },
+  {
+    "name": "ALB| SOFIA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719897&extension=m3u8&play_token=dgh1zXEPm0"
+  },
+  {
+    "name": "ALB| Rm3u8H FEMIJ ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719896&extension=m3u8&play_token=V4njwiSNf8"
+  },
+  {
+    "name": "ALB| 7 NEWS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719895&extension=m3u8&play_token=p1I8zx10bo"
+  },
+  {
+    "name": "ALB| FAX NEWS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719894&extension=m3u8&play_token=rW7eBvDpI5"
+  },
+  {
+    "name": "ALB| ORIGINAL ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719893&extension=m3u8&play_token=CIBm4nfhYF"
+  },
+  {
+    "name": "ALB| SYRI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719892&extension=m3u8&play_token=3hHOlR01Qt"
+  },
+  {
+    "name": "ALB| TOP NEWS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719891&extension=m3u8&play_token=ARbk1t8eSP"
+  },
+  {
+    "name": "ALB| KLAN PLUS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719889&extension=m3u8&play_token=KdtadPXjCp"
+  },
+  {
+    "name": "ALB| A2 CNN ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719888&extension=m3u8&play_token=ELROKvaRnl"
+  },
+  {
+    "name": "ALB| EURONEWS ALBANIA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719887&extension=m3u8&play_token=kcbzW2JQ6o"
+  },
+  {
+    "name": "ALB| ABC NEWS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719886&extension=m3u8&play_token=H5lMbRdQ7l"
+  },
+  {
+    "name": "ALB| PANORAMA TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719885&extension=m3u8&play_token=nSHJgi8kl5"
+  },
+  {
+    "name": "ALB| REPORT TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719884&extension=m3u8&play_token=aE2TXJXPOI"
+  },
+  {
+    "name": "ALB| KLAN NEWS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719883&extension=m3u8&play_token=5KPg5KZrBT"
+  },
+  {
+    "name": "ALB| SCAN TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719882&extension=m3u8&play_token=quuSIG8ptR"
+  },
+  {
+    "name": "ALB| EXPLORER SHKENC  ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719881&extension=m3u8&play_token=7JgK6xSOzJ"
+  },
+  {
+    "name": "ALB| EXPLORER HISTORI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719880&extension=m3u8&play_token=tIt87W84EE"
+  },
+  {
+    "name": "ALB| EXPLORER NATYRA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719879&extension=m3u8&play_token=7M5iBiuTcx"
+  },
+  {
+    "name": "ALB| TRING HISTORY ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719878&extension=m3u8&play_token=8BiiHGFAVF"
+  },
+  {
+    "name": "ALB| TRING PLANET ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719877&extension=m3u8&play_token=JVkG8pRbyi"
+  },
+  {
+    "name": "ALB| TRING WORLD ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719876&extension=m3u8&play_token=KGvkFb2ZrR"
+  },
+  {
+    "name": "ALB| DOKU 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719875&extension=m3u8&play_token=R4hMHkvaCA"
+  },
+  {
+    "name": "ALB| DOKU 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719874&extension=m3u8&play_token=ClGIFaZgex"
+  },
+  {
+    "name": "ALB| LIVING ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719873&extension=m3u8&play_token=kzDefhYo0V"
+  },
+  {
+    "name": "ALB| MUSE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719872&extension=m3u8&play_token=LBK3cLsHpS"
+  },
+  {
+    "name": "ALB| GURMANIA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719871&extension=m3u8&play_token=qJn5sJjFxf"
+  },
+  {
+    "name": "ALB| PREMIUM CHANNEL ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719870&extension=m3u8&play_token=H41fq8K3vt"
+  },
+  {
+    "name": "ALB| LIFE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719869&extension=m3u8&play_token=lebYm40gBq"
+  },
+  {
+    "name": "ALB| TERRA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719868&extension=m3u8&play_token=IGUFoVIaqO"
+  },
+  {
+    "name": "ALB| BEAT TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719867&extension=m3u8&play_token=OZVpvixKXU"
+  },
+  {
+    "name": "ALB| Rm3u8H MUZIK  ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719866&extension=m3u8&play_token=fWxozAHXRv"
+  },
+  {
+    "name": "ALB| RTV 21 PLUS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719865&extension=m3u8&play_token=MqO1bu6J6z"
+  },
+  {
+    "name": "ALB| RTV 21 POPULLORE ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719864&extension=m3u8&play_token=h4soUieZWr"
+  },
+  {
+    "name": "ALB| RTV 21 MIX ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719863&extension=m3u8&play_token=eBRfbiSMgn"
+  },
+  {
+    "name": "ALB| ZICO TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719862&extension=m3u8&play_token=Am3u8YY22ACK"
+  },
+  {
+    "name": "ALB| NTV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719861&extension=m3u8&play_token=iatZzAJnvl"
+  },
+  {
+    "name": "ALB| CLUB TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719860&extension=m3u8&play_token=mB3ph2eOHk"
+  },
+  {
+    "name": "ALB| ELRODI ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719859&extension=m3u8&play_token=xCsp3sopgW"
+  },
+  {
+    "name": "ALB| FOLK+ ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719858&extension=m3u8&play_token=h6YjtpN77H"
+  },
+  {
+    "name": "ALB| CLICK MUSIC ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719857&extension=m3u8&play_token=3SWlevLF1G"
+  },
+  {
+    "name": "ALB| BBF ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719856&extension=m3u8&play_token=3v7rulSdT4"
+  },
+  {
+    "name": "ALB| POSITIVE GOLD ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719855&extension=m3u8&play_token=X9UD9yxmdV"
+  },
+  {
+    "name": "ALB| SUITE TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719854&extension=m3u8&play_token=xGsmknwJBk"
+  },
+  {
+    "name": "ALB| TRAVELINGO ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719853&extension=m3u8&play_token=o1eg641RNw"
+  },
+  {
+    "name": "ALB| MY MUSIC ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719852&extension=m3u8&play_token=yT1WyrabfA"
+  },
+  {
+    "name": "ALB| KLAN MUSIC ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719851&extension=m3u8&play_token=rqM3pCW8bi"
+  },
+  {
+    "name": "ALB| STV FOLK ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719849&extension=m3u8&play_token=d2Ty6z9uRQ"
+  },
+  {
+    "name": "ALB| BALKANIKA MUSIC TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719848&extension=m3u8&play_token=dSeOOOsZX7"
+  },
+  {
+    "name": "ALB| TURBO CHANNEL ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719847&extension=m3u8&play_token=T64MifYlzI"
+  },
+  {
+    "name": "ALB| AMOL TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719846&extension=m3u8&play_token=Z0EMLdnc23"
+  },
+  {
+    "name": "ALB| IN TV ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719845&extension=m3u8&play_token=v2FG4SRKSs"
+  },
+  {
+    "name": "ALB| MTV KOSOVA ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1719844&extension=m3u8&play_token=cATtkSGwD0"
+  },
+  {
+    "name": "####### SPORT PREMIUM ??? #######",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720121&extension=m3u8&play_token=Ez6y5u0VFG"
+  },
+  {
+    "name": "ALB| SUPERSPORT 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720120&extension=m3u8&play_token=R1PPqQiTf8"
+  },
+  {
+    "name": "ALB| SUPERSPORT 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720119&extension=m3u8&play_token=k22lQaeGJt"
+  },
+  {
+    "name": "ALB| SUPERSPORT 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720118&extension=m3u8&play_token=qqAmkisYVp"
+  },
+  {
+    "name": "ALB| SUPERSPORT 4 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720117&extension=m3u8&play_token=MNIMtzjOPt"
+  },
+  {
+    "name": "ALB| SUPERSPORT 5 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720116&extension=m3u8&play_token=5EUimQquzU"
+  },
+  {
+    "name": "ALB| SUPERSPORT 6 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720115&extension=m3u8&play_token=sLBcW8HHsd"
+  },
+  {
+    "name": "ALB| SUPERSPORT 7 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720114&extension=m3u8&play_token=CiKFyBTkdO"
+  },
+  {
+    "name": "ALB| SUPERSPORT KOSOVA 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720113&extension=m3u8&play_token=0YAVzce1RZ"
+  },
+  {
+    "name": "ALB| SUPERSPORT KOSOVA 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720112&extension=m3u8&play_token=HIBJ8k5VQZ"
+  },
+  {
+    "name": "ALB| SUPERSPORT KOSOVA 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720111&extension=m3u8&play_token=U0avzpyOPP"
+  },
+  {
+    "name": "ALB| SPORT 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720110&extension=m3u8&play_token=tegHFVqkKr"
+  },
+  {
+    "name": "ALB| SPORT 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720109&extension=m3u8&play_token=cfGRYm5jmL"
+  },
+  {
+    "name": "ALB| SPORT 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720108&extension=m3u8&play_token=jLy4JvKEBo"
+  },
+  {
+    "name": "ALB| SPORT 4 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720107&extension=m3u8&play_token=cfFhOcouly"
+  },
+  {
+    "name": "ALB| SPORT 5 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720106&extension=m3u8&play_token=ffjuTG5cnX"
+  },
+  {
+    "name": "ALB| SPORT 6 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720105&extension=m3u8&play_token=Kz6SR7X5XS"
+  },
+  {
+    "name": "ALB| TRING SPORT NEWS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720104&extension=m3u8&play_token=PjNlMOkwcL"
+  },
+  {
+    "name": "ALB| TRING SPORT 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720103&extension=m3u8&play_token=zitAlkqQcd"
+  },
+  {
+    "name": "ALB| TRING SPORT 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720102&extension=m3u8&play_token=4jHMP5TdC7"
+  },
+  {
+    "name": "ALB| TRING SPORT 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720101&extension=m3u8&play_token=9G8UXM8iye"
+  },
+  {
+    "name": "ALB| TRING SPORT 4 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720100&extension=m3u8&play_token=XJ4PFb6MiW"
+  },
+  {
+    "name": "ALB| TRING SPORT 5 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720099&extension=m3u8&play_token=V3QNrNN61T"
+  },
+  {
+    "name": "ALB| K SPORT 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720098&extension=m3u8&play_token=wFILwNcPSC"
+  },
+  {
+    "name": "ALB| K SPORT 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720097&extension=m3u8&play_token=cQUWgspYz5"
+  },
+  {
+    "name": "ALB| K SPORT 3 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720096&extension=m3u8&play_token=23tgeu0EvI"
+  },
+  {
+    "name": "ALB| K SPORT 4 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720095&extension=m3u8&play_token=pGSnqR185l"
+  },
+  {
+    "name": "ALB| K SPORT 5 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720094&extension=m3u8&play_token=ZbryxBBunP"
+  },
+  {
+    "name": "ALB| Rm3u8H SPORT ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720093&extension=m3u8&play_token=KF72PCnuGG"
+  },
+  {
+    "name": "ALB| EUROSPORT 1 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720092&extension=m3u8&play_token=z4xYquV3hS"
+  },
+  {
+    "name": "ALB| EUROSPORT 2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720091&extension=m3u8&play_token=ZUksh92R7y"
+  },
+  {
+    "name": "ALB| MCN 24 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720090&extension=m3u8&play_token=eQiBZYNrhJ"
+  },
+  {
+    "name": "ALB| ARENA SPORT 1 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720089&extension=m3u8&play_token=VL59R0XD2q"
+  },
+  {
+    "name": "ALB| ARENA SPORT 2 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720088&extension=m3u8&play_token=12Spl0EEPE"
+  },
+  {
+    "name": "ALB| ARENA SPORT 3 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720087&extension=m3u8&play_token=jxPFHewS1K"
+  },
+  {
+    "name": "ALB| ARENA SPORT 4 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720086&extension=m3u8&play_token=0fKdgCD8WN"
+  },
+  {
+    "name": "ALB| ARENA SPORT 5 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720085&extension=m3u8&play_token=R1WeqOCDGY"
+  },
+  {
+    "name": "ALB| ARENA SPORT 6 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720084&extension=m3u8&play_token=LvxG2yvtZv"
+  },
+  {
+    "name": "ALB| ARENA SPORT 7 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720083&extension=m3u8&play_token=hX1Kk1yafI"
+  },
+  {
+    "name": "ALB| ARENA SPORT 8 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720082&extension=m3u8&play_token=5hch9MUKni"
+  },
+  {
+    "name": "ALB| ARENA SPORT 9 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720081&extension=m3u8&play_token=qDcUxQScQo"
+  },
+  {
+    "name": "ALB| ARENA SPORT 10 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720080&extension=m3u8&play_token=DMJb27m8mu"
+  },
+  {
+    "name": "ALB| ARENA SPORT 1 PREMIUM ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720079&extension=m3u8&play_token=azUijj6La2"
+  },
+  {
+    "name": "ALB| ARENA SPORT 2 PREMIUM ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720078&extension=m3u8&play_token=sLApe63GCC"
+  },
+  {
+    "name": "ALB| ARENA SPORT 3 PREMIUM ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720077&extension=m3u8&play_token=NzOOaj6hAH"
+  },
+  {
+    "name": "ALB| ARENA SPORT 1X2 ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720076&extension=m3u8&play_token=vUYwIwExU9"
+  },
+  {
+    "name": "ALB| ARENA FIGHT ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720075&extension=m3u8&play_token=nzNdGYI8rr"
+  },
+  {
+    "name": "ALB| ARENA SPORm3u8 1 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720074&extension=m3u8&play_token=UhLU3AaT22"
+  },
+  {
+    "name": "ALB| ARENA SPORm3u8 2 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720073&extension=m3u8&play_token=WCLUhU1OIH"
+  },
+  {
+    "name": "ALB| ARENA SPORm3u8 3 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720072&extension=m3u8&play_token=39q7D1XXln"
+  },
+  {
+    "name": "ALB| ARENA SPORm3u8 4 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720071&extension=m3u8&play_token=wzg5mMDDxh"
+  },
+  {
+    "name": "ALB| ARENA SPORm3u8 5 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720070&extension=m3u8&play_token=tBk6vFmrJT"
+  },
+  {
+    "name": "ALB| ARENA SPORm3u8 6 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720069&extension=m3u8&play_token=Rawmb4Iz76"
+  },
+  {
+    "name": "ALB| ARENA SPORm3u8 7 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720068&extension=m3u8&play_token=GWKSWnKa5G"
+  },
+  {
+    "name": "ALB| ARENA SPORm3u8 8 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720067&extension=m3u8&play_token=tFHrQgyJfW"
+  },
+  {
+    "name": "ALB| ARENA SPORm3u8 9 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720066&extension=m3u8&play_token=P9bcwBeYiE"
+  },
+  {
+    "name": "ALB| ARENA SPORm3u8 10 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720065&extension=m3u8&play_token=UkZZWoFMem"
+  },
+  {
+    "name": "ALB| MAX SPORT 1 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720064&extension=m3u8&play_token=0jDWfVphEt"
+  },
+  {
+    "name": "ALB| MAX SPORT 2 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720063&extension=m3u8&play_token=L9tZzcA4hW"
+  },
+  {
+    "name": "ALB| SPORT KLUB 1 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720062&extension=m3u8&play_token=fSXWD27fUo"
+  },
+  {
+    "name": "ALB| SPORT KLUB 2 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720061&extension=m3u8&play_token=Xvk5WyKDQt"
+  },
+  {
+    "name": "ALB| SPORT KLUB 3 RS  ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720060&extension=m3u8&play_token=Mv44ajwrC2"
+  },
+  {
+    "name": "ALB| SPORT KLUB 4 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720059&extension=m3u8&play_token=rMtOe48Ybw"
+  },
+  {
+    "name": "ALB| SPORT KLUB 5 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720058&extension=m3u8&play_token=mNpyNQRh0z"
+  },
+  {
+    "name": "ALB| SPORT KLUB 6 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720057&extension=m3u8&play_token=PfWKMpHAOp"
+  },
+  {
+    "name": "ALB| SPORT KLUB 7 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720056&extension=m3u8&play_token=8Ij9prEpe8"
+  },
+  {
+    "name": "ALB| SPORT KLUB 8 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720055&extension=m3u8&play_token=WhABA6tFL5"
+  },
+  {
+    "name": "ALB| SPORT KLUB 9 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720054&extension=m3u8&play_token=c3VtZrXswU"
+  },
+  {
+    "name": "ALB| SPORT KLUB 10 RS ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720053&extension=m3u8&play_token=QkzNlFjKSi"
+  },
+  {
+    "name": "ALB| SK FIGHT ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720052&extension=m3u8&play_token=xh7Jln3YdV"
+  },
+  {
+    "name": "ALB| SPORT KLUB 1 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720051&extension=m3u8&play_token=YN99JB1NnN"
+  },
+  {
+    "name": "ALB| SPORT KLUB 2 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720050&extension=m3u8&play_token=A3MQOy60N5"
+  },
+  {
+    "name": "ALB| SPORT KLUB 3 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720049&extension=m3u8&play_token=PaT72Cggjj"
+  },
+  {
+    "name": "ALB| EUROSPORT 1 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720048&extension=m3u8&play_token=uqPp0D6YKD"
+  },
+  {
+    "name": "ALB| EUROSPORT 2 HR ???",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://103.176.90.134:80/play/live.php?mac=00:1A:79:B5:0F:41&stream=1720047&extension=m3u8&play_token=QZCIztDH6t"
+  }
+]
