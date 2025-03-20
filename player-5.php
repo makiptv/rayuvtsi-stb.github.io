@@ -25,11 +25,11 @@ $videoTitle = $selectedChannel['name'];
 <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <link rel="shortcut icon" type="image/x-icon" href="https://res.cloudinary.com/live4web/image/upload/v1679110243/player_watermark.png">
-<script src="https://raw.githubusercontent.com/ghouet/chrome-hls/refs/heads/master/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.8/FileSaver.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.37.5/ace.js"></script>
-<script src="https://raw.githubusercontent.com/ghouet/chrome-hls/refs/heads/master/hlsjs/hls.1.4.12.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.6.2/dist/plyr.css" />
+<script src="https://cdn.jsdelivr.net/npm/plyr@3.6.12/dist/plyr.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.1.4/dist/hls.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+
 <style>
 html {
   font-family: Poppins;
@@ -150,85 +150,43 @@ html {
     <script>(function(w,q){w[q]=w[q]||[];w[q].push(["_mgc.load"])})(window,"_mgq");
     </script>
 
-<video autoplay controls crossorigin poster="http://jiotv.catchup.cdn.jio.com/dare_images/images/<?php echo $_REQUEST["c"]; ?>.png" playsinline>
-
-<?php
-
-printf("<source type="application/vnd.apple.mpegurl" src="<?php echo $videoUrl; ?>", $_REQUEST["c"]);
-
-?>
-
-</video>
-
-</body>
-
+<video autoplay controls crossorigin poster="lokilogo.jpg" playsinline>
+<source type="application/vnd.apple.mpegurl" src="<?php echo $videoUrl; ?>"></video>
 <script>
-
-setTimeout(videovisible, 3000)
-
-
+setTimeout(videovisible,3000)
 
 function videovisible() {
-
     document.getElementById('loading').style.display = 'none'
-
 }
-
 document.addEventListener("DOMContentLoaded", () => {
-
     const e = document.querySelector("video"),
-
         n = e.getElementsByTagName("source")[0].src,
-
         o = {};
-
     if (Hls.isSupported()) {
-
         var config = {
-
             maxMaxBufferLength: 100,
-
         };
-
         const t = new Hls(config);
-
         t.loadSource(n), t.on(Hls.Events.MANIFEST_PARSED, function(n, l) {
-
             const s = t.levels.map(e => e.height);
-
             o.quality = {
-
                 default: s[0],
-
                 options: s,
-
                 forced: !0,
-
                 onChange: e => (function(e) {
-
                     window.hls.levels.forEach((n, o) => {
-
                         n.height === e && (window.hls.currentLevel = o)
-
                     })
-
                 })(e)
-
             };
-
             new Plyr(e, o)
-
         }), t.attachMedia(e), window.hls = t
-
     } else {
-
         new Plyr(e, o)
-
     }
-
 });
-
 </script>
+
 
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"922f7a82ff0a5a8a","version":"2025.1.0","r":1,"token":"1eaa94dc0d534aaaa04c4d19fd3a7785","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}}}' crossorigin="anonymous"></script>
 </body>
