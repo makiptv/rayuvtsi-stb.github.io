@@ -1,6 +1,6 @@
 <?php
 $channelId = $_GET['id'];
-$channelsData = json_decode(file_get_contents('ott-3.json'), true);
+$channelsData = json_decode(file_get_contents('ott-4.json'), true);
 $selectedChannel = null;
 foreach ($channelsData as $channel) {
   if ($channel['name'] == $channelId) {
